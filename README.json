@@ -1,0 +1,1301 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Reference Documentation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Articles and Presentations"
+    },
+    {
+      "description": "If you are new to eBPF, you may want to try the links described as \"introductions\" in this section.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "A BPF reference guide",
+          "description": "About BPF C and bcc Python helpers, from bcc repository.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-20T07:14:01Z",
+            "owner": "iovisor",
+            "repo": "bcc",
+            "stars": 22617
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Beginner's guide to eBPF",
+          "description": "A set of live-coding talks and the accompanying code examples, introducing eBPF programming using a variety of libraries and program types.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-08T14:59:28Z",
+            "owner": "lizrice",
+            "repo": "ebpf-beginners",
+            "stars": 1727
+          }
+        }
+      ],
+      "title": "Generic eBPF Presentations and Articles"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "eXpress Data Path (XDP)",
+          "description": "The first presentation about XDP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-09-20T16:08:15Z",
+            "owner": "iovisor",
+            "repo": "bpf-docs",
+            "stars": 1017
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "All XDP details in a technical paper: The eXpress Data Path: Fast Programmable Packet Processing in the Operating System Kernel",
+          "description": ", by Toke Høiland-Jørgensen, Jesper Dangaard Brouer, Daniel Borkmann, John Fastabend, Tom Herbert, David Ahern and David Miller, all being essential eBPF and XDP contributors.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2021-01-15T16:28:13Z",
+            "owner": "tohojo",
+            "repo": "xdp-paper",
+            "stars": 151
+          }
+        }
+      ],
+      "title": "XDP"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "hBPF - eBPF in hardware",
+          "description": "An eBPF CPU written for FPGAs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-27T12:01:25Z",
+            "owner": "rprinz08",
+            "repo": "hBPF",
+            "stars": 433
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenCSD eBPF SSD offloading",
+          "description": "Computational Storage simulation (QEMU) platform with FUSE LFS filesystem for Zoned Namespaces NVMe SSDs using uBPF for compute kernel offloading, all in userspace.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-11-01T06:40:09Z",
+            "owner": "Dantali0n",
+            "repo": "OpenCSD",
+            "stars": 69
+          }
+        }
+      ],
+      "title": "Hardware Offload"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "bcc Reference Guide",
+          "description": "Many incremental steps to start using bcc and eBPF, mostly centered on tracing and monitoring.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-20T07:14:01Z",
+            "owner": "iovisor",
+            "repo": "bcc",
+            "stars": 22617
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bcc Python Developer Tutorial",
+          "description": "Comes with bcc, but targets the Python bits across seventeen \"lessons\".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-20T07:14:01Z",
+            "owner": "iovisor",
+            "repo": "bcc",
+            "stars": 22617
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XDP Hands-On Tutorial",
+          "description": "A progressive (three levels of difficulty) tutorial to learn how to process packets with XDP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-05-08T20:13:46Z",
+            "owner": "xdp-project",
+            "repo": "xdp-tutorial",
+            "stars": 2959
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Linux Tracing Workshops Materials",
+          "description": "Involves the use of several BPF tools for tracing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2020-06-19T09:20:08Z",
+            "owner": "goldshtn",
+            "repo": "linux-tracing-workshop",
+            "stars": 1323
+          }
+        }
+      ],
+      "title": "Tutorials"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "bcc/examples",
+          "description": "Examples coming along with the bcc tools, mostly about tracing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-20T07:14:01Z",
+            "owner": "iovisor",
+            "repo": "bcc",
+            "stars": 22617
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bcc/tools",
+          "description": "These tools themselves can be seen as example use cases for BPF programs, mostly for tracing and monitoring. bcc tools have been packaged for some Linux distributions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-20T07:14:01Z",
+            "owner": "iovisor",
+            "repo": "bcc",
+            "stars": 22617
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "redbpf examples",
+          "description": "Example programs for using RedBPF to write eBPF programs in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2023-06-30T10:23:27Z",
+            "owner": "foniod",
+            "repo": "redbpf",
+            "stars": 1723
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "prototype-kernel/kernel/samples/bpf",
+          "description": "Jesper Dangaard Brouer's prototype-kernel repository contains some additional examples that can be compiled outside of kernel infrastructure.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-01-16T18:31:50Z",
+            "owner": "netoptimizer",
+            "repo": "prototype-kernel",
+            "stars": 316
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Netronome sample network applications",
+          "description": "Provides basic but complete examples of eBPF applications also compatible with hardware offload.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2020-04-06T16:23:50Z",
+            "owner": "Netronome",
+            "repo": "bpf-samples",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ebpf-samples",
+          "description": "A collection of compiled (as ELF object files) samples gathered from several projects, primarily intended to serve as test cases for user space verifiers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-03T09:38:05Z",
+            "owner": "vbpf",
+            "repo": "ebpf-samples",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XDP/TC-eBPF example",
+          "description": "Program that uses XDP/TC-eBPF to provide statefull firewalling and socket redirection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-08-05T19:34:54Z",
+            "owner": "netfoundry",
+            "repo": "zfw",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MPLSinIP sample",
+          "description": "A heavily commented sample demonstrating how to encapsulate and decapsulate MPLS within IP. The code is commented for those new to BPF development.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2019-10-18T22:00:44Z",
+            "owner": "fzakaria",
+            "repo": "ebpf-mpls-encap-decap",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ebpf-kill-example",
+          "description": "A fully documented and tested example of an eBPF probe that logs all force-kills and prints them out in user-space.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-13T06:51:30Z",
+            "owner": "niclashedam",
+            "repo": "ebpf-kill-example",
+            "stars": 23
+          }
+        }
+      ],
+      "title": "Examples"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "eBPF Workflow: Tools and Utilities"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "bcc",
+          "description": "Framework and set of tools - One way to handle BPF programs, in particular for tracing and monitoring. Also includes some utilities that may help inspect maps or programs on the system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-20T07:14:01Z",
+            "owner": "iovisor",
+            "repo": "bcc",
+            "stars": 22617
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lua front-end for BCC",
+          "description": "Another alternative to C, and even to most of the Python code used in bcc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-20T07:14:01Z",
+            "owner": "iovisor",
+            "repo": "bcc",
+            "stars": 22617
+          }
+        }
+      ],
+      "title": "bcc"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "libbpf",
+          "description": "A C library used for handling BPF objects (programs and maps), and manipulating ELF object files containing them. It is shipped with the kernel and mirrored on GitHub.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-30T18:20:16Z",
+            "owner": "libbpf",
+            "repo": "libbpf",
+            "stars": 2744
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libbpf-bootstrap",
+          "description": "Scaffolding for BPF application development with libbpf and BPF CO-RE.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CMake",
+            "last_commit": "2026-08-03T19:37:55Z",
+            "owner": "libbpf",
+            "repo": "libbpf-bootstrap",
+            "stars": 1519
+          }
+        }
+      ],
+      "title": "libbpf"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "cilium/ebpf",
+          "description": "Pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T11:37:19Z",
+            "owner": "cilium",
+            "repo": "ebpf",
+            "stars": 7912
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libbpfgo",
+          "description": "eBPF library for Go, powered by libbpf.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-07T11:58:18Z",
+            "owner": "aquasecurity",
+            "repo": "libbpfgo",
+            "stars": 846
+          }
+        }
+      ],
+      "title": "Go libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "aya",
+          "description": "A pure Rust library for writing, loading, and managing eBPF objects, with a focus on developer experience and operability. It supports writing eBPF programs in Rust and distributing library code over crates.io to share it between eBPF programs. Aya does not depend on libbpf.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T20:40:42Z",
+            "owner": "aya-rs",
+            "repo": "aya",
+            "stars": 4754
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aya-template",
+          "description": "Templates for writing BPF applications in Aya that can be used with .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T22:32:55Z",
+            "owner": "aya-rs",
+            "repo": "aya-template",
+            "stars": 140
+          }
+        }
+      ],
+      "title": "Aya"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "rbpf",
+          "description": "Written in Rust. Interpreter for Linux, macOS and Windows, and JIT-compiler for x86_64 under Linux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-03T21:44:37Z",
+            "owner": "qmonnet",
+            "repo": "rbpf",
+            "stars": 1125
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "uBPF",
+          "description": "Written in C. Contains an interpreter, a JIT compiler for x86_64 architecture, an assembler and a disassembler.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-08T15:06:35Z",
+            "owner": "iovisor",
+            "repo": "ubpf",
+            "stars": 987
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PREVAIL",
+          "description": "A user space verifier for eBPF using an abstract interpretation layer, with support for loops.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-08T20:33:42Z",
+            "owner": "vbpf",
+            "repo": "prevail",
+            "stars": 468
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A generic implementation",
+          "description": "With support for FreeBSD kernel, FreeBSD user space, Linux kernel, Linux user space and macOS user space. Used for the VALE software switch's BPF extension module.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-05-28T09:29:01Z",
+            "owner": "generic-ebpf",
+            "repo": "generic-ebpf",
+            "stars": 154
+          }
+        }
+      ],
+      "title": "User Space eBPF"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "bcc in a Docker container",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2020-07-23T21:28:01Z",
+            "owner": "zlim",
+            "repo": "bcc-docker",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bpfcompat",
+          "description": "Boots real Linux kernels in disposable QEMU/KVM VMs to load- and attach-validate compiled eBPF objects across a multi-distro, multi-architecture kernel matrix, classifying failures (missing BTF, unsupported map/program type, CO-RE relocations); runs as a CI gate and GitHub Action.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T06:44:55Z",
+            "owner": "Kernel-Guard",
+            "repo": "bpfcompat",
+            "stars": 17
+          }
+        }
+      ],
+      "title": "Testing in Virtual Environments"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Projects Related to eBPF"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Cilium",
+          "description": "project (GitHub repository) is a technology relying on eBPF and XDP to provide \"fast in-kernel networking and security policy enforcement for containers based on eBPF programs generated on the fly\". Many presentations available (with overlap):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T00:00:59Z",
+            "owner": "cilium",
+            "repo": "cilium",
+            "stars": 24921
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ApFree WiFiDog",
+          "description": "A high performance and lightweight captive portal solution for wireless networks. It leverages eBPF for traffic control and deep packet inspection capabilities, with plans to gradually replace nftables firewall functionality with eBPF-based solutions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-06T04:37:45Z",
+            "owner": "liudf0716",
+            "repo": "apfree-wifidog",
+            "stars": 934
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "merbridge",
+          "description": "Use eBPF to speed up your Service Mesh. Merbridge replaces iptables rules with eBPF to intercept traffic. It also combines msg_redirect to reduce latency with a shortened datapath between sidecars and services.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-05-19T17:46:13Z",
+            "owner": "merbridge",
+            "repo": "merbridge",
+            "stars": 808
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ipx_wrap",
+          "description": "A proof-of-concept IPX implementation for Linux using eBPF.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T15:30:38Z",
+            "owner": "twisted-pear",
+            "repo": "ipx_wrap",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "P4 has some interactions with eBPF:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "P4_16 backend for eBPF",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2026-08-11T16:46:45Z",
+                "owner": "p4lang",
+                "repo": "p4c",
+                "stars": 834
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Suricata, an open source intrusion detection system, relies on eBPF components for its \"capture bypass\" features:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SEPTun-Mark-II",
+              "description": "Extreme Performance Tuning guide - Mark II.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Makefile",
+                "last_commit": "2018-04-17T12:55:25Z",
+                "owner": "pevma",
+                "repo": "SEPTun-Mark-II",
+                "stars": 121
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Networking"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Coroot",
+          "description": "Coroot is an open-source APM and observability tool, a DataDog and NewRelic alternative.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T14:55:39Z",
+            "owner": "coroot",
+            "repo": "coroot",
+            "stars": 7870
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pixie",
+          "description": "Observability for Kubernetes using eBPF. Features include protocol tracing, application profiling, and support for distributed bpftrace deployments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-30T23:00:42Z",
+            "owner": "pixie-io",
+            "repo": "pixie",
+            "stars": 6513
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kyanos",
+          "description": "Kyanos is an eBPF-based network issue analysis tool that enables you to capture network requests, such as HTTP, Redis, and MySQL requests.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-08T09:33:32Z",
+            "owner": "hengyoush",
+            "repo": "kyanos",
+            "stars": 5063
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hubble",
+          "description": "Network, service and security observability for Kubernetes using eBPF.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2026-08-05T15:39:35Z",
+            "owner": "cilium",
+            "repo": "hubble",
+            "stars": 4284
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepFlow",
+          "description": "Instant observability for cloud-native and AI applications based on eBPF.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T09:03:45Z",
+            "owner": "deepflowio",
+            "repo": "deepflow",
+            "stars": 4223
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Caretta",
+          "description": "Instant Kubernetes service dependency map generated by eBPF, right to a Grafana instance.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-03-17T13:28:09Z",
+            "owner": "groundcover-com",
+            "repo": "caretta",
+            "stars": 2053
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InKeV: In-Kernel Distributed Network Virtualization for DCN",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-09-20T16:08:15Z",
+            "owner": "iovisor",
+            "repo": "bpf-docs",
+            "stars": 1017
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "parca-agent",
+          "description": "eBPF based always-on continuous profiler for analysis of CPU and memory usage, down to the line number and throughout time.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-28T14:45:28Z",
+            "owner": "parca-dev",
+            "repo": "parca-agent",
+            "stars": 740
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SkyWalking Rover",
+          "description": "Apache SkyWalking is an open-source Application Performance Monitoring (APM) platform specially designed for distributed systems with microservices, cloud-native and container-based (Kubernetes) architectures. SkyWalking Rover is an eBPF-based profiler and metrics collector for C, C++, Golang, and Rust applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T05:55:51Z",
+            "owner": "apache",
+            "repo": "skywalking-rover",
+            "stars": 237
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rbperf",
+          "description": "Sampling profiler and tracer for Ruby.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-04-21T14:15:13Z",
+            "owner": "javierhonduco",
+            "repo": "rbperf",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kpod-metrics",
+          "description": "eBPF-based pod-level kernel metrics collector for Kubernetes. Exports per-pod CPU, network, memory, syscall, disk I/O, and L7 protocol metrics to Prometheus. BPF programs are defined using a Kotlin DSL instead of C.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-01T01:09:59Z",
+            "owner": "pjs7678",
+            "repo": "kpod-metrics",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eTraceGen",
+          "description": "eTraceGen is a Linux telemetry engine built with eBPF and Modern C++ that captures kernel-level events for processes, files, system calls, and network with a modular pipeline for decoding, enrichment, filtering, and JSON output.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-26T13:56:57Z",
+            "owner": "bhanuprakasheagala",
+            "repo": "eTraceGen",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rstat",
+          "description": "Sub-millisecond system monitoring using eBPF tracepoints on sched_switch, sched_process_exit, and sched_process_free, with zero heap allocations in steady state.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-04T04:25:49Z",
+            "owner": "overyonder",
+            "repo": "rstat",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ingero",
+          "description": "eBPF-based GPU causal observability agent. Traces CUDA Runtime and Driver APIs via uprobes and host kernel events via tracepoints to build causal chains explaining GPU latency, with <2% overhead.",
+          "children": []
+        }
+      ],
+      "title": "Observability"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Tetragon",
+          "description": "Kubernetes-aware, eBPF-based security observability and runtime enforcement.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T23:08:42Z",
+            "owner": "cilium",
+            "repo": "tetragon",
+            "stars": 4915
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tracee",
+          "description": "A runtime security and forensics tool for Linux which uses eBPF technology to trace the system and applications at runtime, and analyze collected events to detect suspicious behavioral patterns.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T20:35:49Z",
+            "owner": "aquasecurity",
+            "repo": "tracee",
+            "stars": 4579
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sysmon for Linux",
+          "description": "A security monitoring tool. It depends on SysinternalsEBPF.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-13T23:10:10Z",
+            "owner": "microsoft",
+            "repo": "SysmonForLinux",
+            "stars": 2146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "owLSM",
+          "description": "Open source agent that implements a stateful Sigma rules engine focused on monitoring and prevention using eBPF LSM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-30T11:09:11Z",
+            "owner": "Cybereason-Public",
+            "repo": "owLSM",
+            "stars": 281
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "harpoon",
+          "description": "Trace syscalls from user-space functions, by using eBPF.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-02-23T14:52:18Z",
+            "owner": "alegrey91",
+            "repo": "harpoon",
+            "stars": 177
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bpflock - Lock Linux machines",
+          "description": "An eBPF driven security tool for locking and auditing Linux machines.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-02-16T21:30:06Z",
+            "owner": "linux-lock",
+            "repo": "bpflock",
+            "stars": 157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "redcanary-ebpf-sensor",
+          "description": "A set of BPF programs that gather security relevant event data from the Linux kernel. The BPF programs are combined into a single ELF file from which individual probes can be selectively loaded, depending on the running operating system and kernel version.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-26T22:33:14Z",
+            "owner": "redcanaryco",
+            "repo": "redcanary-ebpf-sensor",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BPFJailer",
+          "description": "BpfJailer is an eBPF-based process jailing system that provides mandatory access control (MAC) for Linux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T05:33:38Z",
+            "owner": "gen0sec",
+            "repo": "jailer",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bombini",
+          "description": "An eBPF-based security agent written entirely in Rust using the Aya library and built on LSM (Linux Security Module) BPF hooks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T07:21:31Z",
+            "owner": "bombinisecurity",
+            "repo": "bombini",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Synapse",
+          "description": "Extended detection and response (XDR) with eBPF-powered firewall and proxy, to protect your Linux servers.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Inner Warden",
+          "description": "A self-defending security agent for Linux and macOS that uses eBPF with 22 kernel hooks (tracepoints, kprobes, LSM, XDP) via the Aya library for real-time threat detection, automated response, and AI-powered triage.",
+          "children": []
+        }
+      ],
+      "title": "Security"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "scx",
+          "description": "sched_ext schedulers and tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T20:27:49Z",
+            "owner": "sched-ext",
+            "repo": "scx",
+            "stars": 2112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gthulhu",
+          "description": "Gthulhu optimizes cloud-native workloads using the Linux Scheduler Extension for different application scenarios.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-09T09:09:15Z",
+            "owner": "Gthulhu",
+            "repo": "Gthulhu",
+            "stars": 398
+          }
+        }
+      ],
+      "title": "Linux Scheduler"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "oryx",
+          "description": "A TUI for sniffing network traffic using eBPF on Linux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-17T17:33:18Z",
+            "owner": "pythops",
+            "repo": "oryx",
+            "stars": 2553
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl trace",
+          "description": "A kubectl plug-in for executing bpftrace programs in a Kubernetes cluster.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-04-16T20:47:34Z",
+            "owner": "iovisor",
+            "repo": "kubectl-trace",
+            "stars": 2184
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "redbpf",
+          "description": "Tooling and framework to write eBPF code in Rust efficiently.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2023-06-30T10:23:27Z",
+            "owner": "foniod",
+            "repo": "redbpf",
+            "stars": 1723
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ptcpdump",
+          "description": "A process-aware, eBPF-based tcpdump-like tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-08T00:46:20Z",
+            "owner": "mozillazg",
+            "repo": "ptcpdump",
+            "stars": 1254
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bpfman",
+          "description": "An eBPF Manager for Linux and Kubernetes. Includes a built-in program loader that supports program cooperation for XDP and TC programs, as well as deployment of eBPF programs from OCI images.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T02:12:36Z",
+            "owner": "bpfman",
+            "repo": "bpfman",
+            "stars": 755
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AgentSight",
+          "description": "Zero-instrumentation eBPF observability for LLM and coding agents, capturing syscall-level traces (file, network, process) without modifying the agent.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T03:49:54Z",
+            "owner": "eunomia-bpf",
+            "repo": "agentsight",
+            "stars": 580
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bpfd",
+          "description": "Framework for running BPF programs with rules on Linux as a daemon. Container aware.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2021-05-07T16:14:59Z",
+            "owner": "genuinetools",
+            "repo": "bpfd",
+            "stars": 483
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "adeb",
+          "description": "A Linux shell environment for using tracing tools on Android with BPFd.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2023-02-04T11:23:20Z",
+            "owner": "joelagnel",
+            "repo": "adeb",
+            "stars": 337
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "upf-bpf",
+          "description": "An in-kernel solution based on XDP for 5G UPF.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-09-28T13:02:41Z",
+            "owner": "navarrothiago",
+            "repo": "upf-bpf",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GhostScope",
+          "description": "A DWARF-aware eBPF tracer for source-level userspace tracing, with an interactive TUI and a scriptable CLI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T05:06:05Z",
+            "owner": "swananan",
+            "repo": "ghostscope",
+            "stars": 187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BPFd",
+          "description": "A distinct BPF daemon, trying to leverage the flexibility of the bcc tools to trace and debug remote targets, and in particular devices running with Android.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2021-10-24T19:43:20Z",
+            "owner": "joelagnel",
+            "repo": "bpfd",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ebpf-explorer",
+          "description": "A web interface to explore system's maps and programs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dockerfile",
+            "last_commit": "2023-06-18T12:38:55Z",
+            "owner": "ebpfdev",
+            "repo": "explorer",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ebpfmon",
+          "description": "A TUI (terminal user interface) application for real time monitoring of eBPF programs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-12-05T02:28:41Z",
+            "owner": "redcanaryco",
+            "repo": "ebpfmon",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ActPlane",
+          "description": "OS-level agent harness that compiles a policy DSL to an in-kernel eBPF engine for labeled information-flow control at the syscall boundary, enforcing constraints across any tool or subprocess.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-09T07:42:09Z",
+            "owner": "eunomia-bpf",
+            "repo": "ActPlane",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "greggd",
+          "description": "System daemon to compile and load eBPF programs into the kernel, and forward program output to socket for metric aggregation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-03-20T15:58:35Z",
+            "owner": "olcf",
+            "repo": "greggd",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "IO Visor's bcc documentation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-20T07:14:01Z",
+            "owner": "iovisor",
+            "repo": "bcc",
+            "stars": 22617
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IO Visor's bpf-docs repository",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-09-20T16:08:15Z",
+            "owner": "iovisor",
+            "repo": "bpf-docs",
+            "stars": 1017
+          }
+        }
+      ],
+      "title": "Other Lists of Resources on eBPF"
+    },
+    {
+      "description": "Thank you to Quentin Monnet and Daniel Borkmann for their original work on Dive into BPF: A List of Reading Material which became the basis for this list. Thanks to @zoidyzoidzoid for creating this document.",
+      "items": [],
+      "title": "Acknowledgement"
+    },
+    {
+      "description": "Contributions welcome! Read the contribution guidelines first.",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "To the extent possible under law, the authors have waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T03:56:06.668Z",
+    "original_repository": "qmonnet/awesome-ebpf",
+    "original_repository_sha": "e1a0438cd7638253285a06118cbc30b091890e3a",
+    "enhanced_repository": "enhansome/enhansome-ebpf",
+    "enhanced_repository_description": null,
+    "title": "Awesome eBPF with stars"
+  }
+}
