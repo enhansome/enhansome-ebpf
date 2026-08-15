@@ -24,7 +24,7 @@
             "last_commit": "2026-08-14T08:23:06Z",
             "owner": "iovisor",
             "repo": "bcc",
-            "stars": 22615
+            "stars": 22617
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2026-08-14T08:23:06Z",
             "owner": "iovisor",
             "repo": "bcc",
-            "stars": 22615
+            "stars": 22617
           }
         },
         {
@@ -140,7 +140,7 @@
             "last_commit": "2026-08-14T08:23:06Z",
             "owner": "iovisor",
             "repo": "bcc",
-            "stars": 22615
+            "stars": 22617
           }
         },
         {
@@ -188,7 +188,7 @@
             "last_commit": "2026-08-14T08:23:06Z",
             "owner": "iovisor",
             "repo": "bcc",
-            "stars": 22615
+            "stars": 22617
           }
         },
         {
@@ -202,7 +202,7 @@
             "last_commit": "2026-08-14T08:23:06Z",
             "owner": "iovisor",
             "repo": "bcc",
-            "stars": 22615
+            "stars": 22617
           }
         },
         {
@@ -325,7 +325,7 @@
             "last_commit": "2026-08-14T08:23:06Z",
             "owner": "iovisor",
             "repo": "bcc",
-            "stars": 22615
+            "stars": 22617
           }
         },
         {
@@ -339,7 +339,7 @@
             "last_commit": "2026-08-14T08:23:06Z",
             "owner": "iovisor",
             "repo": "bcc",
-            "stars": 22615
+            "stars": 22617
           }
         }
       ],
@@ -359,7 +359,7 @@
             "last_commit": "2026-07-30T18:20:16Z",
             "owner": "libbpf",
             "repo": "libbpf",
-            "stars": 2745
+            "stars": 2746
           }
         },
         {
@@ -373,7 +373,7 @@
             "last_commit": "2026-08-03T19:37:55Z",
             "owner": "libbpf",
             "repo": "libbpf-bootstrap",
-            "stars": 1519
+            "stars": 1520
           }
         }
       ],
@@ -393,7 +393,7 @@
             "last_commit": "2026-08-13T09:25:48Z",
             "owner": "cilium",
             "repo": "ebpf",
-            "stars": 7913
+            "stars": 7912
           }
         },
         {
@@ -424,10 +424,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T11:05:14Z",
+            "last_commit": "2026-08-15T08:54:55Z",
             "owner": "aya-rs",
             "repo": "aya",
-            "stars": 4759
+            "stars": 4763
           }
         },
         {
@@ -559,10 +559,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T11:11:17Z",
+            "last_commit": "2026-08-15T10:20:59Z",
             "owner": "cilium",
             "repo": "cilium",
-            "stars": 24927
+            "stars": 24931
           }
         },
         {
@@ -573,7 +573,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-06T04:37:45Z",
+            "last_commit": "2026-08-14T14:26:17Z",
             "owner": "liudf0716",
             "repo": "apfree-wifidog",
             "stars": 934
@@ -663,10 +663,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-11T14:55:39Z",
+            "last_commit": "2026-08-14T17:56:00Z",
             "owner": "coroot",
             "repo": "coroot",
-            "stars": 7870
+            "stars": 7872
           }
         },
         {
@@ -694,7 +694,7 @@
             "last_commit": "2026-08-08T09:33:32Z",
             "owner": "hengyoush",
             "repo": "kyanos",
-            "stars": 5064
+            "stars": 5065
           }
         },
         {
@@ -708,7 +708,7 @@
             "last_commit": "2026-08-05T15:39:35Z",
             "owner": "cilium",
             "repo": "hubble",
-            "stars": 4286
+            "stars": 4288
           }
         },
         {
@@ -722,7 +722,7 @@
             "last_commit": "2026-08-14T09:51:46Z",
             "owner": "deepflowio",
             "repo": "deepflow",
-            "stars": 4225
+            "stars": 4226
           }
         },
         {
@@ -857,10 +857,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-14T10:49:01Z",
+            "last_commit": "2026-08-14T19:45:33Z",
             "owner": "cilium",
             "repo": "tetragon",
-            "stars": 4920
+            "stars": 4921
           }
         },
         {
@@ -874,7 +874,7 @@
             "last_commit": "2026-08-11T20:35:49Z",
             "owner": "aquasecurity",
             "repo": "tracee",
-            "stars": 4582
+            "stars": 4583
           }
         },
         {
@@ -1004,7 +1004,7 @@
             "last_commit": "2026-08-13T17:57:19Z",
             "owner": "sched-ext",
             "repo": "scx",
-            "stars": 2112
+            "stars": 2113
           }
         },
         {
@@ -1038,7 +1038,7 @@
             "last_commit": "2026-07-17T17:33:18Z",
             "owner": "pythops",
             "repo": "oryx",
-            "stars": 2553
+            "stars": 2554
           }
         },
         {
@@ -1105,10 +1105,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-14T05:28:45Z",
+            "last_commit": "2026-08-15T05:31:47Z",
             "owner": "eunomia-bpf",
             "repo": "agentsight",
-            "stars": 585
+            "stars": 587
           }
         },
         {
@@ -1161,7 +1161,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T07:39:40Z",
+            "last_commit": "2026-08-15T03:58:42Z",
             "owner": "swananan",
             "repo": "ghostscope",
             "stars": 187
@@ -1220,7 +1220,7 @@
             "last_commit": "2026-08-14T09:15:45Z",
             "owner": "eunomia-bpf",
             "repo": "ActPlane",
-            "stars": 86
+            "stars": 88
           }
         },
         {
@@ -1254,7 +1254,7 @@
             "last_commit": "2026-08-14T08:23:06Z",
             "owner": "iovisor",
             "repo": "bcc",
-            "stars": 22615
+            "stars": 22617
           }
         },
         {
@@ -1291,7 +1291,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T11:12:01.681Z",
+    "last_updated": "2026-08-15T10:43:23.823Z",
     "original_repository": "qmonnet/awesome-ebpf",
     "original_repository_sha": "e1a0438cd7638253285a06118cbc30b091890e3a",
     "enhanced_repository": "enhansome/enhansome-ebpf",
