@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-14T08:23:06Z",
                 "owner": "iovisor",
                 "repo": "bcc",
-                "stars": 22625
+                "stars": 22626
               }
             },
             {
@@ -132,7 +132,7 @@
             "last_commit": "2026-08-14T08:23:06Z",
             "owner": "iovisor",
             "repo": "bcc",
-            "stars": 22625
+            "stars": 22626
           }
         },
         {
@@ -147,7 +147,7 @@
             "last_commit": "2026-08-14T08:23:06Z",
             "owner": "iovisor",
             "repo": "bcc",
-            "stars": 22625
+            "stars": 22626
           }
         },
         {
@@ -198,7 +198,7 @@
             "last_commit": "2026-08-14T08:23:06Z",
             "owner": "iovisor",
             "repo": "bcc",
-            "stars": 22625
+            "stars": 22626
           }
         },
         {
@@ -213,7 +213,7 @@
             "last_commit": "2026-08-14T08:23:06Z",
             "owner": "iovisor",
             "repo": "bcc",
-            "stars": 22625
+            "stars": 22626
           }
         },
         {
@@ -341,7 +341,7 @@
                 "last_commit": "2026-08-14T08:23:06Z",
                 "owner": "iovisor",
                 "repo": "bcc",
-                "stars": 22625
+                "stars": 22626
               }
             },
             {
@@ -356,7 +356,7 @@
                 "last_commit": "2026-08-14T08:23:06Z",
                 "owner": "iovisor",
                 "repo": "bcc",
-                "stars": 22625
+                "stars": 22626
               }
             }
           ],
@@ -449,7 +449,7 @@
                 "archived": false,
                 "id": 331227477,
                 "language": "Rust",
-                "last_commit": "2026-08-19T05:23:46Z",
+                "last_commit": "2026-08-19T12:07:56Z",
                 "owner": "aya-rs",
                 "repo": "aya",
                 "stars": 4770
@@ -596,10 +596,10 @@
                 "archived": false,
                 "id": 48109239,
                 "language": "Go",
-                "last_commit": "2026-08-19T10:27:31Z",
+                "last_commit": "2026-08-19T11:53:29Z",
                 "owner": "cilium",
                 "repo": "cilium",
-                "stars": 24968
+                "stars": 24969
               }
             },
             {
@@ -909,10 +909,10 @@
                 "archived": false,
                 "id": 473137633,
                 "language": "C",
-                "last_commit": "2026-08-19T10:10:26Z",
+                "last_commit": "2026-08-19T11:28:32Z",
                 "owner": "cilium",
                 "repo": "tetragon",
-                "stars": 4932
+                "stars": 4933
               }
             },
             {
@@ -927,7 +927,7 @@
                 "last_commit": "2026-08-11T20:35:49Z",
                 "owner": "aquasecurity",
                 "repo": "tracee",
-                "stars": 4584
+                "stars": 4585
               }
             },
             {
@@ -1051,10 +1051,10 @@
                 "archived": false,
                 "id": 724381950,
                 "language": "C",
-                "last_commit": "2026-08-19T09:59:36Z",
+                "last_commit": "2026-08-19T12:23:14Z",
                 "owner": "sched-ext",
                 "repo": "scx",
-                "stars": 2127
+                "stars": 2128
               }
             },
             {
@@ -1389,7 +1389,7 @@
                 "last_commit": "2026-08-14T08:23:06Z",
                 "owner": "iovisor",
                 "repo": "bcc",
-                "stars": 22625
+                "stars": 22626
               }
             },
             {
@@ -1417,8 +1417,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T10:50:35.943Z",
+    "last_updated": "2026-08-19T12:25:30.481Z",
     "original_repository": "qmonnet/awesome-ebpf",
+    "original_repository_id": 109623221,
     "original_repository_sha": "e1a0438cd7638253285a06118cbc30b091890e3a",
     "enhanced_repository": "enhansome/enhansome-ebpf",
     "enhanced_repository_description": null,
