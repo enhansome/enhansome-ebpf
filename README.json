@@ -449,7 +449,7 @@
                 "archived": false,
                 "id": 331227477,
                 "language": "Rust",
-                "last_commit": "2026-08-24T09:05:24Z",
+                "last_commit": "2026-08-24T11:03:51Z",
                 "owner": "aya-rs",
                 "repo": "aya",
                 "stars": 4783
@@ -474,6 +474,50 @@
           "description": null,
           "node_type": "group",
           "title": "Aya"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "zbpf",
+              "description": "A pure Zig framework for writing cross platform eBPF programs, powered by libbpf and Zig toolchain.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 626195411,
+                "language": "Zig",
+                "last_commit": "2026-04-19T06:39:21Z",
+                "owner": "tw4452852",
+                "repo": "zbpf",
+                "stars": 277
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "zbpf"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "eunomia-bpf",
+              "description": "A compilation framework and runtime library to build, distribute, dynamically load, and run CO-RE eBPF applications in multiple languages and WebAssembly. It supports writing eBPF kernel code only (to build simple CO-RE libbpf eBPF applications), writing the kernel part in both BCC and libbpf styles, and writing userspace in multiple languages in a WASM module and distributing it with simple JSON data or WASM OCI images. The runtime is based on libbpf only and provides CO-RE to BCC-style eBPF programs without depending on the LLVM library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 526942698,
+                "language": "Rust",
+                "last_commit": "2026-08-09T07:40:55Z",
+                "owner": "eunomia-bpf",
+                "repo": "eunomia-bpf",
+                "stars": 896
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "eunomia-bpf"
         },
         {
           "children": [
@@ -546,6 +590,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "eBPF for Windows",
+              "description": "This project is a work-in-progress that allows using existing eBPF toolchains and APIs familiar in the Linux ecosystem to be used on top of Windows.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 355718757,
+                "language": "C",
+                "last_commit": "2026-08-22T01:25:41Z",
+                "owner": "microsoft",
+                "repo": "ebpf-for-windows",
+                "stars": 3549
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "eBPF on Other Platforms"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "bcc in a Docker container",
               "description": null,
               "children": [],
@@ -596,10 +662,10 @@
                 "archived": false,
                 "id": 48109239,
                 "language": "Go",
-                "last_commit": "2026-08-24T10:55:27Z",
+                "last_commit": "2026-08-24T13:51:39Z",
                 "owner": "cilium",
                 "repo": "cilium",
-                "stars": 25002
+                "stars": 25003
               }
             },
             {
@@ -909,7 +975,7 @@
                 "archived": false,
                 "id": 473137633,
                 "language": "C",
-                "last_commit": "2026-08-24T10:46:36Z",
+                "last_commit": "2026-08-24T13:52:11Z",
                 "owner": "cilium",
                 "repo": "tetragon",
                 "stars": 4945
@@ -1066,7 +1132,7 @@
                 "archived": false,
                 "id": 990385817,
                 "language": "Go",
-                "last_commit": "2026-08-17T13:40:53Z",
+                "last_commit": "2026-08-24T11:55:17Z",
                 "owner": "Gthulhu",
                 "repo": "Gthulhu",
                 "stars": 402
@@ -1166,7 +1232,7 @@
                 "last_commit": "2026-08-24T10:48:55Z",
                 "owner": "eunomia-bpf",
                 "repo": "agentsight",
-                "stars": 600
+                "stars": 601
               }
             },
             {
@@ -1379,6 +1445,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "The XDP Collaboration Project",
+              "description": "A GitHub repository with notes and ideas regarding the future evolutions of XDP.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 159467561,
+                "language": "CSS",
+                "last_commit": "2026-08-12T17:34:19Z",
+                "owner": "xdp-project",
+                "repo": "xdp-project",
+                "stars": 314
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Development and Community"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "IO Visor's bcc documentation",
               "description": null,
               "children": [],
@@ -1417,7 +1505,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T10:57:47.996Z",
+    "last_updated": "2026-08-24T13:53:04.561Z",
     "original_repository": "qmonnet/awesome-ebpf",
     "original_repository_id": 109623221,
     "original_repository_sha": "e1a0438cd7638253285a06118cbc30b091890e3a",

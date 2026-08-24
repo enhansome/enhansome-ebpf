@@ -311,7 +311,7 @@ If you are new to eBPF, you may want to try the links described as "introduction
 
 ### Networking
 
-* [Cilium](https://cilium.io/) project ([GitHub repository](https://github.com/cilium/cilium) ⭐ 25,002 | 🐛 1,113 | 🌐 Go | 📅 2026-08-24) is a technology relying on eBPF and XDP to provide "fast in-kernel networking and security policy enforcement for containers based on eBPF programs generated on the fly". Many presentations available (with overlap):
+* [Cilium](https://cilium.io/) project ([GitHub repository](https://github.com/cilium/cilium) ⭐ 25,003 | 🐛 1,116 | 🌐 Go | 📅 2026-08-24) is a technology relying on eBPF and XDP to provide "fast in-kernel networking and security policy enforcement for containers based on eBPF programs generated on the fly". Many presentations available (with overlap):
 
   * [Cilium: Networking & Security for Containers with BPF & XDP](https://www.slideshare.net/slideshow/clium-container-networking-with-bpf-xdp/68194576) - Also featuring a load balancer use case
   * [Cilium: Networking & Security for Containers with BPF & XDP](https://www.slideshare.net/slideshow/cilium-bpf-xdp-for-containers-66969823/66969823) - [video](https://www.youtube.com/watch?v=TnJF7ht3ZYc\&list=PLkA60AVN3hh8oPas3cq2VA9xB7WazcIgs)
@@ -375,7 +375,7 @@ If you are new to eBPF, you may want to try the links described as "introduction
 
 ### Security
 
-* [Tetragon](https://github.com/cilium/tetragon) ⭐ 4,945 | 🐛 272 | 🌐 C | 📅 2026-08-24 - Kubernetes-aware, eBPF-based security observability and runtime enforcement.
+* [Tetragon](https://github.com/cilium/tetragon) ⭐ 4,945 | 🐛 270 | 🌐 C | 📅 2026-08-24 - Kubernetes-aware, eBPF-based security observability and runtime enforcement.
 * [Tracee](https://github.com/aquasecurity/tracee) ⭐ 4,590 | 🐛 121 | 🌐 Go | 📅 2026-08-11 - A runtime security and forensics tool for Linux which uses eBPF technology to trace the system and applications at runtime, and analyze collected events to detect suspicious behavioral patterns.
 * [Sysmon for Linux](https://github.com/Sysinternals/SysmonForLinux) ⭐ 2,152 | 🐛 42 | 🌐 C | 📅 2026-07-13 - A security monitoring tool. It depends on [SysinternalsEBPF](https://github.com/Sysinternals/SysinternalsEBPF) ⭐ 288 | 🐛 16 | 🌐 C | 📅 2026-05-07.
 * [owLSM](https://github.com/Cybereason-Public/owLSM) ⭐ 281 | 🐛 2 | 🌐 C | 📅 2026-08-22 - Open source agent that implements a stateful Sigma rules engine focused on monitoring and prevention using eBPF LSM.
@@ -392,7 +392,7 @@ If you are new to eBPF, you may want to try the links described as "introduction
 ### Linux Scheduler
 
 * [scx](https://github.com/sched-ext/scx) ⭐ 2,133 | 🐛 82 | 🌐 C | 📅 2026-08-24 - sched\_ext schedulers and tools.
-* [Gthulhu](https://github.com/Gthulhu/Gthulhu) ⭐ 402 | 🐛 8 | 🌐 Go | 📅 2026-08-17 - Gthulhu optimizes cloud-native workloads using the Linux Scheduler Extension for different application scenarios.
+* [Gthulhu](https://github.com/Gthulhu/Gthulhu) ⭐ 402 | 🐛 5 | 🌐 Go | 📅 2026-08-24 - Gthulhu optimizes cloud-native workloads using the Linux Scheduler Extension for different application scenarios.
 
 ### Tools
 
@@ -401,7 +401,7 @@ If you are new to eBPF, you may want to try the links described as "introduction
 * [redbpf](https://github.com/foniod/redbpf) ⚠️ Archived - Tooling and framework to write eBPF code in Rust efficiently.
 * [ptcpdump](https://github.com/mozillazg/ptcpdump) ⭐ 1,264 | 🐛 29 | 🌐 C | 📅 2026-08-23 - A process-aware, eBPF-based tcpdump-like tool.
 * [bpfman](https://github.com/bpfman/bpfman) ⭐ 758 | 🐛 17 | 🌐 Go | 📅 2026-08-24 - An eBPF Manager for Linux and Kubernetes. Includes a built-in program loader that supports program cooperation for XDP and TC programs, as well as deployment of eBPF programs from OCI images.
-* [AgentSight](https://github.com/eunomia-bpf/AgentSight) ⭐ 600 | 🐛 23 | 🌐 C | 📅 2026-08-24 - Zero-instrumentation eBPF observability for LLM and coding agents, capturing syscall-level traces (file, network, process) without modifying the agent.
+* [AgentSight](https://github.com/eunomia-bpf/AgentSight) ⭐ 601 | 🐛 23 | 🌐 C | 📅 2026-08-24 - Zero-instrumentation eBPF observability for LLM and coding agents, capturing syscall-level traces (file, network, process) without modifying the agent.
 * [bpfd](https://github.com/genuinetools/bpfd) ⭐ 483 | 🐛 5 | 🌐 Go | 📅 2021-05-07 - Framework for running BPF programs with rules on Linux as a daemon. Container aware.
 * [adeb](https://github.com/joelagnel/adeb) ⚠️ Archived - A Linux shell environment for using tracing tools on Android with BPFd.
 * [upf-bpf](https://github.com/navarrothiago/upf-bpf) ⭐ 217 | 🐛 17 | 🌐 C++ | 📅 2024-09-28 - An in-kernel solution based on XDP for 5G UPF.
@@ -453,11 +453,11 @@ If you are new to eBPF, you may want to try the links described as "introduction
 
 ## Development and Community
 
+* [The XDP Collaboration Project](https://github.com/xdp-project/xdp-project) ⭐ 314 | 🐛 6 | 🌐 CSS | 📅 2026-08-12 - A GitHub repository with notes and ideas regarding the future evolutions of XDP.
 * [The bpf-next tree](https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next.git/) - BPF patches land in this tree. It is regularly merged into [net-next](https://git.kernel.org/pub/scm/linux/kernel/git/davem/net-next.git), which is itself merged for each release to Linus' tree.
 * [Kernel documentation](https://git.kernel.org/pub/scm/linux/kernel/git/davem/net-next.git/tree/Documentation/bpf/bpf_devel_QA.rst) - About contributions to BPF.
 * [The netdev mailing list](http://lists.openwall.net/netdev/) - Mailing list for Linux kernel networking stack development. All patches are sent there for review and inclusion.
 * [XDP-newbies](http://vger.kernel.org/vger-lists.html#xdp-newbies) - A mailing list specially dedicated to XDP programming (both for architecture or for asking for help).
-* [The XDP Collaboration Project](https://github.com/xdp-project/xdp-project) ⭐ 314 | 🐛 6 | 🌐 CSS | 📅 2026-08-12 - A GitHub repository with notes and ideas regarding the future evolutions of XDP.
 
 ## Other Lists of Resources on eBPF
 
