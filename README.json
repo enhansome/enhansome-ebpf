@@ -415,7 +415,7 @@
                 "last_commit": "2026-08-25T08:12:36Z",
                 "owner": "cilium",
                 "repo": "ebpf",
-                "stars": 7933
+                "stars": 7934
               }
             },
             {
@@ -449,7 +449,7 @@
                 "archived": false,
                 "id": 331227477,
                 "language": "Rust",
-                "last_commit": "2026-08-27T10:37:13Z",
+                "last_commit": "2026-08-27T15:40:55Z",
                 "owner": "aya-rs",
                 "repo": "aya",
                 "stars": 4785
@@ -662,7 +662,7 @@
                 "archived": false,
                 "id": 48109239,
                 "language": "Go",
-                "last_commit": "2026-08-27T10:43:48Z",
+                "last_commit": "2026-08-27T20:31:48Z",
                 "owner": "cilium",
                 "repo": "cilium",
                 "stars": 25017
@@ -730,7 +730,7 @@
                     "last_commit": "2026-08-24T03:08:51Z",
                     "owner": "p4lang",
                     "repo": "p4c",
-                    "stars": 835
+                    "stars": 836
                   }
                 }
               ]
@@ -773,10 +773,10 @@
                 "archived": false,
                 "id": 527612250,
                 "language": "Go",
-                "last_commit": "2026-08-18T17:22:01Z",
+                "last_commit": "2026-08-27T20:30:23Z",
                 "owner": "coroot",
                 "repo": "coroot",
-                "stars": 7891
+                "stars": 7893
               }
             },
             {
@@ -806,7 +806,7 @@
                 "last_commit": "2026-08-27T00:06:48Z",
                 "owner": "hengyoush",
                 "repo": "kyanos",
-                "stars": 5066
+                "stars": 5067
               }
             },
             {
@@ -833,7 +833,7 @@
                 "archived": false,
                 "id": 448599559,
                 "language": "Go",
-                "last_commit": "2026-08-27T09:48:27Z",
+                "last_commit": "2026-08-27T11:48:48Z",
                 "owner": "deepflowio",
                 "repo": "deepflow",
                 "stars": 4244
@@ -975,10 +975,10 @@
                 "archived": false,
                 "id": 473137633,
                 "language": "C",
-                "last_commit": "2026-08-27T11:23:34Z",
+                "last_commit": "2026-08-27T19:45:33Z",
                 "owner": "cilium",
                 "repo": "tetragon",
-                "stars": 4955
+                "stars": 4957
               }
             },
             {
@@ -1117,7 +1117,7 @@
                 "archived": false,
                 "id": 724381950,
                 "language": "C",
-                "last_commit": "2026-08-27T09:32:37Z",
+                "last_commit": "2026-08-27T17:56:16Z",
                 "owner": "sched-ext",
                 "repo": "scx",
                 "stars": 2138
@@ -1157,7 +1157,7 @@
                 "last_commit": "2026-07-17T17:33:18Z",
                 "owner": "pythops",
                 "repo": "oryx",
-                "stars": 2569
+                "stars": 2570
               }
             },
             {
@@ -1232,7 +1232,7 @@
                 "last_commit": "2026-08-25T03:03:00Z",
                 "owner": "eunomia-bpf",
                 "repo": "agentsight",
-                "stars": 606
+                "stars": 608
               }
             },
             {
@@ -1289,7 +1289,7 @@
                 "archived": false,
                 "id": 1045560846,
                 "language": "Rust",
-                "last_commit": "2026-08-27T03:18:41Z",
+                "last_commit": "2026-08-27T14:37:45Z",
                 "owner": "swananan",
                 "repo": "ghostscope",
                 "stars": 188
@@ -1505,7 +1505,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:35:08.464Z",
+    "last_updated": "2026-08-27T20:35:37.875Z",
     "original_repository_info": {
       "archived": false,
       "id": 109623221,
@@ -1513,7 +1513,7 @@
       "last_commit": "2026-08-12T16:29:00Z",
       "owner": "qmonnet",
       "repo": "awesome-ebpf",
-      "stars": 5151
+      "stars": 5150
     },
     "original_repository_sha": "e1a0438cd7638253285a06118cbc30b091890e3a",
     "enhanced_repository": "enhansome/enhansome-ebpf",
