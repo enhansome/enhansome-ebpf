@@ -17,8 +17,9 @@
                 "last_commit": "2026-08-27T11:24:41Z",
                 "owner": "iovisor",
                 "repo": "bcc",
-                "stars": 22640
-              }
+                "stars": 22644
+              },
+              "first_seen": "2026-08-28T21:11:54.713Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "lizrice",
                 "repo": "ebpf-beginners",
                 "stars": 1730
-              }
+              },
+              "first_seen": "2026-08-28T21:11:54.713Z"
             }
           ],
           "description": "If you are new to eBPF, you may want to try the links described as \"introductions\" in this section.",
@@ -55,7 +57,8 @@
                 "owner": "iovisor",
                 "repo": "bpf-docs",
                 "stars": 1017
-              }
+              },
+              "first_seen": "2026-08-28T21:11:54.713Z"
             },
             {
               "node_type": "item",
@@ -70,7 +73,8 @@
                 "owner": "tohojo",
                 "repo": "xdp-paper",
                 "stars": 154
-              }
+              },
+              "first_seen": "2026-08-28T21:11:54.713Z"
             }
           ],
           "description": null,
@@ -92,7 +96,8 @@
                 "owner": "rprinz08",
                 "repo": "hBPF",
                 "stars": 434
-              }
+              },
+              "first_seen": "2026-08-28T21:11:54.713Z"
             },
             {
               "node_type": "item",
@@ -107,7 +112,8 @@
                 "owner": "Dantali0n",
                 "repo": "OpenCSD",
                 "stars": 69
-              }
+              },
+              "first_seen": "2026-08-28T21:11:54.713Z"
             }
           ],
           "description": null,
@@ -132,8 +138,9 @@
             "last_commit": "2026-08-27T11:24:41Z",
             "owner": "iovisor",
             "repo": "bcc",
-            "stars": 22640
-          }
+            "stars": 22644
+          },
+          "first_seen": "2026-08-28T21:11:54.713Z"
         },
         {
           "node_type": "item",
@@ -147,8 +154,9 @@
             "last_commit": "2026-08-27T11:24:41Z",
             "owner": "iovisor",
             "repo": "bcc",
-            "stars": 22640
-          }
+            "stars": 22644
+          },
+          "first_seen": "2026-08-28T21:11:54.713Z"
         },
         {
           "node_type": "item",
@@ -163,7 +171,8 @@
             "owner": "xdp-project",
             "repo": "xdp-tutorial",
             "stars": 2963
-          }
+          },
+          "first_seen": "2026-08-28T21:11:54.713Z"
         },
         {
           "node_type": "item",
@@ -177,8 +186,9 @@
             "last_commit": "2020-06-19T09:20:08Z",
             "owner": "goldshtn",
             "repo": "linux-tracing-workshop",
-            "stars": 1321
-          }
+            "stars": 1322
+          },
+          "first_seen": "2026-08-28T21:11:54.713Z"
         }
       ],
       "title": "Tutorials"
@@ -198,8 +208,9 @@
             "last_commit": "2026-08-27T11:24:41Z",
             "owner": "iovisor",
             "repo": "bcc",
-            "stars": 22640
-          }
+            "stars": 22644
+          },
+          "first_seen": "2026-08-28T21:11:54.713Z"
         },
         {
           "node_type": "item",
@@ -213,8 +224,9 @@
             "last_commit": "2026-08-27T11:24:41Z",
             "owner": "iovisor",
             "repo": "bcc",
-            "stars": 22640
-          }
+            "stars": 22644
+          },
+          "first_seen": "2026-08-28T21:11:54.713Z"
         },
         {
           "node_type": "item",
@@ -229,7 +241,8 @@
             "owner": "foniod",
             "repo": "redbpf",
             "stars": 1721
-          }
+          },
+          "first_seen": "2026-08-28T21:11:54.713Z"
         },
         {
           "node_type": "item",
@@ -244,7 +257,8 @@
             "owner": "netoptimizer",
             "repo": "prototype-kernel",
             "stars": 316
-          }
+          },
+          "first_seen": "2026-08-28T21:11:54.713Z"
         },
         {
           "node_type": "item",
@@ -259,7 +273,8 @@
             "owner": "Netronome",
             "repo": "bpf-samples",
             "stars": 107
-          }
+          },
+          "first_seen": "2026-08-28T21:11:54.713Z"
         },
         {
           "node_type": "item",
@@ -274,7 +289,8 @@
             "owner": "vbpf",
             "repo": "ebpf-samples",
             "stars": 93
-          }
+          },
+          "first_seen": "2026-08-28T21:11:54.713Z"
         },
         {
           "node_type": "item",
@@ -289,7 +305,8 @@
             "owner": "netfoundry",
             "repo": "zfw",
             "stars": 84
-          }
+          },
+          "first_seen": "2026-08-28T21:11:54.713Z"
         },
         {
           "node_type": "item",
@@ -304,7 +321,8 @@
             "owner": "fzakaria",
             "repo": "ebpf-mpls-encap-decap",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T21:11:54.713Z"
         },
         {
           "node_type": "item",
@@ -319,7 +337,8 @@
             "owner": "niclashedam",
             "repo": "ebpf-kill-example",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T21:11:54.713Z"
         }
       ],
       "title": "Examples"
@@ -341,8 +360,9 @@
                 "last_commit": "2026-08-27T11:24:41Z",
                 "owner": "iovisor",
                 "repo": "bcc",
-                "stars": 22640
-              }
+                "stars": 22644
+              },
+              "first_seen": "2026-08-28T21:11:54.713Z"
             },
             {
               "node_type": "item",
@@ -356,8 +376,9 @@
                 "last_commit": "2026-08-27T11:24:41Z",
                 "owner": "iovisor",
                 "repo": "bcc",
-                "stars": 22640
-              }
+                "stars": 22644
+              },
+              "first_seen": "2026-08-28T21:11:54.713Z"
             }
           ],
           "description": null,
@@ -378,8 +399,9 @@
                 "last_commit": "2026-07-30T18:20:16Z",
                 "owner": "libbpf",
                 "repo": "libbpf",
-                "stars": 2750
-              }
+                "stars": 2751
+              },
+              "first_seen": "2026-08-28T21:11:54.713Z"
             },
             {
               "node_type": "item",
@@ -394,7 +416,8 @@
                 "owner": "libbpf",
                 "repo": "libbpf-bootstrap",
                 "stars": 1519
-              }
+              },
+              "first_seen": "2026-08-28T21:11:54.713Z"
             }
           ],
           "description": null,
@@ -416,7 +439,8 @@
                 "owner": "cilium",
                 "repo": "ebpf",
                 "stars": 7934
-              }
+              },
+              "first_seen": "2026-08-28T21:11:54.713Z"
             },
             {
               "node_type": "item",
@@ -430,8 +454,9 @@
                 "last_commit": "2026-08-25T14:57:11Z",
                 "owner": "aquasecurity",
                 "repo": "libbpfgo",
-                "stars": 847
-              }
+                "stars": 848
+              },
+              "first_seen": "2026-08-28T21:11:54.713Z"
             }
           ],
           "description": null,
@@ -449,11 +474,12 @@
                 "archived": false,
                 "id": 331227477,
                 "language": "Rust",
-                "last_commit": "2026-08-27T15:40:55Z",
+                "last_commit": "2026-08-28T15:38:16Z",
                 "owner": "aya-rs",
                 "repo": "aya",
-                "stars": 4785
-              }
+                "stars": 4786
+              },
+              "first_seen": "2026-08-28T21:11:54.713Z"
             },
             {
               "node_type": "item",
@@ -468,7 +494,8 @@
                 "owner": "aya-rs",
                 "repo": "aya-template",
                 "stars": 140
-              }
+              },
+              "first_seen": "2026-08-28T21:11:54.713Z"
             }
           ],
           "description": null,
@@ -490,7 +517,8 @@
                 "owner": "tw4452852",
                 "repo": "zbpf",
                 "stars": 277
-              }
+              },
+              "first_seen": "2026-08-28T21:11:54.713Z"
             }
           ],
           "description": null,
@@ -512,7 +540,8 @@
                 "owner": "eunomia-bpf",
                 "repo": "eunomia-bpf",
                 "stars": 897
-              }
+              },
+              "first_seen": "2026-08-28T21:11:54.713Z"
             }
           ],
           "description": null,
@@ -534,7 +563,8 @@
                 "owner": "qmonnet",
                 "repo": "rbpf",
                 "stars": 1125
-              }
+              },
+              "first_seen": "2026-08-28T21:11:54.713Z"
             },
             {
               "node_type": "item",
@@ -549,7 +579,8 @@
                 "owner": "iovisor",
                 "repo": "ubpf",
                 "stars": 986
-              }
+              },
+              "first_seen": "2026-08-28T21:11:54.713Z"
             },
             {
               "node_type": "item",
@@ -564,7 +595,8 @@
                 "owner": "vbpf",
                 "repo": "prevail",
                 "stars": 467
-              }
+              },
+              "first_seen": "2026-08-28T21:11:54.713Z"
             },
             {
               "node_type": "item",
@@ -579,7 +611,8 @@
                 "owner": "generic-ebpf",
                 "repo": "generic-ebpf",
                 "stars": 154
-              }
+              },
+              "first_seen": "2026-08-28T21:11:54.713Z"
             }
           ],
           "description": null,
@@ -597,11 +630,12 @@
                 "archived": false,
                 "id": 355718757,
                 "language": "C",
-                "last_commit": "2026-08-27T00:16:27Z",
+                "last_commit": "2026-08-28T19:43:53Z",
                 "owner": "microsoft",
                 "repo": "ebpf-for-windows",
                 "stars": 3554
-              }
+              },
+              "first_seen": "2026-08-28T21:11:54.713Z"
             }
           ],
           "description": null,
@@ -623,7 +657,8 @@
                 "owner": "zlim",
                 "repo": "bcc-docker",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-28T21:11:54.713Z"
             },
             {
               "node_type": "item",
@@ -638,7 +673,8 @@
                 "owner": "Kernel-Guard",
                 "repo": "bpfcompat",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T21:11:54.713Z"
             }
           ],
           "description": null,
@@ -662,11 +698,12 @@
                 "archived": false,
                 "id": 48109239,
                 "language": "Go",
-                "last_commit": "2026-08-27T20:31:48Z",
+                "last_commit": "2026-08-28T20:52:10Z",
                 "owner": "cilium",
                 "repo": "cilium",
-                "stars": 25017
-              }
+                "stars": 25021
+              },
+              "first_seen": "2026-08-28T21:11:54.713Z"
             },
             {
               "node_type": "item",
@@ -681,7 +718,8 @@
                 "owner": "liudf0716",
                 "repo": "apfree-wifidog",
                 "stars": 935
-              }
+              },
+              "first_seen": "2026-08-28T21:11:54.713Z"
             },
             {
               "node_type": "item",
@@ -696,7 +734,8 @@
                 "owner": "merbridge",
                 "repo": "merbridge",
                 "stars": 808
-              }
+              },
+              "first_seen": "2026-08-28T21:11:54.713Z"
             },
             {
               "node_type": "item",
@@ -711,7 +750,8 @@
                 "owner": "twisted-pear",
                 "repo": "ipx_wrap",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T21:11:54.713Z"
             },
             {
               "node_type": "group",
@@ -731,7 +771,8 @@
                     "owner": "p4lang",
                     "repo": "p4c",
                     "stars": 836
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:11:54.713Z"
                 }
               ]
             },
@@ -753,7 +794,8 @@
                     "owner": "pevma",
                     "repo": "SEPTun-Mark-II",
                     "stars": 121
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:11:54.713Z"
                 }
               ]
             }
@@ -773,11 +815,12 @@
                 "archived": false,
                 "id": 527612250,
                 "language": "Go",
-                "last_commit": "2026-08-27T20:30:23Z",
+                "last_commit": "2026-08-27T21:50:45Z",
                 "owner": "coroot",
                 "repo": "coroot",
-                "stars": 7893
-              }
+                "stars": 7894
+              },
+              "first_seen": "2026-08-28T21:11:54.713Z"
             },
             {
               "node_type": "item",
@@ -792,7 +835,8 @@
                 "owner": "pixie-io",
                 "repo": "pixie",
                 "stars": 6522
-              }
+              },
+              "first_seen": "2026-08-28T21:11:54.713Z"
             },
             {
               "node_type": "item",
@@ -806,8 +850,9 @@
                 "last_commit": "2026-08-27T00:06:48Z",
                 "owner": "hengyoush",
                 "repo": "kyanos",
-                "stars": 5067
-              }
+                "stars": 5069
+              },
+              "first_seen": "2026-08-28T21:11:54.713Z"
             },
             {
               "node_type": "item",
@@ -822,7 +867,8 @@
                 "owner": "cilium",
                 "repo": "hubble",
                 "stars": 4315
-              }
+              },
+              "first_seen": "2026-08-28T21:11:54.713Z"
             },
             {
               "node_type": "item",
@@ -833,11 +879,12 @@
                 "archived": false,
                 "id": 448599559,
                 "language": "Go",
-                "last_commit": "2026-08-27T11:48:48Z",
+                "last_commit": "2026-08-28T14:26:53Z",
                 "owner": "deepflowio",
                 "repo": "deepflow",
-                "stars": 4244
-              }
+                "stars": 4246
+              },
+              "first_seen": "2026-08-28T21:11:54.713Z"
             },
             {
               "node_type": "item",
@@ -851,8 +898,9 @@
                 "last_commit": "2025-03-17T13:28:09Z",
                 "owner": "groundcover-com",
                 "repo": "caretta",
-                "stars": 2055
-              }
+                "stars": 2056
+              },
+              "first_seen": "2026-08-28T21:11:54.713Z"
             },
             {
               "node_type": "item",
@@ -867,7 +915,8 @@
                 "owner": "iovisor",
                 "repo": "bpf-docs",
                 "stars": 1017
-              }
+              },
+              "first_seen": "2026-08-28T21:11:54.713Z"
             },
             {
               "node_type": "item",
@@ -878,11 +927,12 @@
                 "archived": false,
                 "id": 364992209,
                 "language": "Go",
-                "last_commit": "2026-08-26T18:26:13Z",
+                "last_commit": "2026-08-28T15:46:20Z",
                 "owner": "parca-dev",
                 "repo": "parca-agent",
                 "stars": 743
-              }
+              },
+              "first_seen": "2026-08-28T21:11:54.713Z"
             },
             {
               "node_type": "item",
@@ -893,11 +943,12 @@
                 "archived": false,
                 "id": 460670096,
                 "language": "Go",
-                "last_commit": "2026-08-26T08:09:19Z",
+                "last_commit": "2026-08-28T08:07:10Z",
                 "owner": "apache",
                 "repo": "skywalking-rover",
                 "stars": 237
-              }
+              },
+              "first_seen": "2026-08-28T21:11:54.713Z"
             },
             {
               "node_type": "item",
@@ -912,7 +963,8 @@
                 "owner": "javierhonduco",
                 "repo": "rbperf",
                 "stars": 124
-              }
+              },
+              "first_seen": "2026-08-28T21:11:54.713Z"
             },
             {
               "node_type": "item",
@@ -927,7 +979,8 @@
                 "owner": "pjs7678",
                 "repo": "kpod-metrics",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T21:11:54.713Z"
             },
             {
               "node_type": "item",
@@ -942,7 +995,8 @@
                 "owner": "bhanuprakasheagala",
                 "repo": "eTraceGen",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T21:11:54.713Z"
             },
             {
               "node_type": "item",
@@ -957,7 +1011,8 @@
                 "owner": "overyonder",
                 "repo": "rstat",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T21:11:54.713Z"
             }
           ],
           "description": null,
@@ -975,11 +1030,12 @@
                 "archived": false,
                 "id": 473137633,
                 "language": "C",
-                "last_commit": "2026-08-27T19:45:33Z",
+                "last_commit": "2026-08-28T21:06:35Z",
                 "owner": "cilium",
                 "repo": "tetragon",
-                "stars": 4957
-              }
+                "stars": 4959
+              },
+              "first_seen": "2026-08-28T21:11:54.713Z"
             },
             {
               "node_type": "item",
@@ -993,8 +1049,9 @@
                 "last_commit": "2026-08-11T20:35:49Z",
                 "owner": "aquasecurity",
                 "repo": "tracee",
-                "stars": 4593
-              }
+                "stars": 4594
+              },
+              "first_seen": "2026-08-28T21:11:54.713Z"
             },
             {
               "node_type": "item",
@@ -1009,7 +1066,8 @@
                 "owner": "microsoft",
                 "repo": "SysmonForLinux",
                 "stars": 2153
-              }
+              },
+              "first_seen": "2026-08-28T21:11:54.713Z"
             },
             {
               "node_type": "item",
@@ -1024,7 +1082,8 @@
                 "owner": "Cybereason-Public",
                 "repo": "owLSM",
                 "stars": 281
-              }
+              },
+              "first_seen": "2026-08-28T21:11:54.713Z"
             },
             {
               "node_type": "item",
@@ -1038,8 +1097,9 @@
                 "last_commit": "2026-02-23T14:52:18Z",
                 "owner": "alegrey91",
                 "repo": "harpoon",
-                "stars": 177
-              }
+                "stars": 178
+              },
+              "first_seen": "2026-08-28T21:11:54.713Z"
             },
             {
               "node_type": "item",
@@ -1054,7 +1114,8 @@
                 "owner": "linux-lock",
                 "repo": "bpflock",
                 "stars": 157
-              }
+              },
+              "first_seen": "2026-08-28T21:11:54.713Z"
             },
             {
               "node_type": "item",
@@ -1069,7 +1130,8 @@
                 "owner": "redcanaryco",
                 "repo": "redcanary-ebpf-sensor",
                 "stars": 116
-              }
+              },
+              "first_seen": "2026-08-28T21:11:54.713Z"
             },
             {
               "node_type": "item",
@@ -1084,7 +1146,8 @@
                 "owner": "gen0sec",
                 "repo": "jailer",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-28T21:11:54.713Z"
             },
             {
               "node_type": "item",
@@ -1099,7 +1162,8 @@
                 "owner": "bombinisecurity",
                 "repo": "bombini",
                 "stars": 58
-              }
+              },
+              "first_seen": "2026-08-28T21:11:54.713Z"
             }
           ],
           "description": null,
@@ -1117,11 +1181,12 @@
                 "archived": false,
                 "id": 724381950,
                 "language": "C",
-                "last_commit": "2026-08-27T17:56:16Z",
+                "last_commit": "2026-08-28T17:00:23Z",
                 "owner": "sched-ext",
                 "repo": "scx",
-                "stars": 2138
-              }
+                "stars": 2139
+              },
+              "first_seen": "2026-08-28T21:11:54.713Z"
             },
             {
               "node_type": "item",
@@ -1136,7 +1201,8 @@
                 "owner": "Gthulhu",
                 "repo": "Gthulhu",
                 "stars": 402
-              }
+              },
+              "first_seen": "2026-08-28T21:11:54.713Z"
             }
           ],
           "description": null,
@@ -1154,11 +1220,12 @@
                 "archived": false,
                 "id": 850755206,
                 "language": "Rust",
-                "last_commit": "2026-07-17T17:33:18Z",
+                "last_commit": "2026-08-28T20:14:56Z",
                 "owner": "pythops",
                 "repo": "oryx",
-                "stars": 2570
-              }
+                "stars": 2572
+              },
+              "first_seen": "2026-08-28T21:11:54.713Z"
             },
             {
               "node_type": "item",
@@ -1173,7 +1240,8 @@
                 "owner": "iovisor",
                 "repo": "kubectl-trace",
                 "stars": 2186
-              }
+              },
+              "first_seen": "2026-08-28T21:11:54.713Z"
             },
             {
               "node_type": "item",
@@ -1188,7 +1256,8 @@
                 "owner": "foniod",
                 "repo": "redbpf",
                 "stars": 1721
-              }
+              },
+              "first_seen": "2026-08-28T21:11:54.713Z"
             },
             {
               "node_type": "item",
@@ -1199,11 +1268,12 @@
                 "archived": false,
                 "id": 782416935,
                 "language": "C",
-                "last_commit": "2026-08-23T06:24:16Z",
+                "last_commit": "2026-08-28T20:13:16Z",
                 "owner": "mozillazg",
                 "repo": "ptcpdump",
-                "stars": 1264
-              }
+                "stars": 1265
+              },
+              "first_seen": "2026-08-28T21:11:54.713Z"
             },
             {
               "node_type": "item",
@@ -1217,8 +1287,9 @@
                 "last_commit": "2026-08-24T02:11:23Z",
                 "owner": "bpfman",
                 "repo": "bpfman",
-                "stars": 759
-              }
+                "stars": 760
+              },
+              "first_seen": "2026-08-28T21:11:54.713Z"
             },
             {
               "node_type": "item",
@@ -1232,8 +1303,9 @@
                 "last_commit": "2026-08-25T03:03:00Z",
                 "owner": "eunomia-bpf",
                 "repo": "agentsight",
-                "stars": 608
-              }
+                "stars": 613
+              },
+              "first_seen": "2026-08-28T21:11:54.713Z"
             },
             {
               "node_type": "item",
@@ -1248,7 +1320,8 @@
                 "owner": "genuinetools",
                 "repo": "bpfd",
                 "stars": 483
-              }
+              },
+              "first_seen": "2026-08-28T21:11:54.713Z"
             },
             {
               "node_type": "item",
@@ -1263,7 +1336,8 @@
                 "owner": "joelagnel",
                 "repo": "adeb",
                 "stars": 337
-              }
+              },
+              "first_seen": "2026-08-28T21:11:54.713Z"
             },
             {
               "node_type": "item",
@@ -1278,7 +1352,8 @@
                 "owner": "navarrothiago",
                 "repo": "upf-bpf",
                 "stars": 217
-              }
+              },
+              "first_seen": "2026-08-28T21:11:54.713Z"
             },
             {
               "node_type": "item",
@@ -1289,11 +1364,12 @@
                 "archived": false,
                 "id": 1045560846,
                 "language": "Rust",
-                "last_commit": "2026-08-27T14:37:45Z",
+                "last_commit": "2026-08-28T15:26:31Z",
                 "owner": "swananan",
                 "repo": "ghostscope",
                 "stars": 188
-              }
+              },
+              "first_seen": "2026-08-28T21:11:54.713Z"
             },
             {
               "node_type": "item",
@@ -1308,7 +1384,8 @@
                 "owner": "joelagnel",
                 "repo": "bpfd",
                 "stars": 97
-              }
+              },
+              "first_seen": "2026-08-28T21:11:54.713Z"
             },
             {
               "node_type": "item",
@@ -1323,7 +1400,8 @@
                 "owner": "ebpfdev",
                 "repo": "explorer",
                 "stars": 93
-              }
+              },
+              "first_seen": "2026-08-28T21:11:54.713Z"
             },
             {
               "node_type": "item",
@@ -1334,11 +1412,12 @@
                 "archived": false,
                 "id": 1247115218,
                 "language": "C",
-                "last_commit": "2026-08-21T09:15:29Z",
+                "last_commit": "2026-08-28T09:13:48Z",
                 "owner": "eunomia-bpf",
                 "repo": "ActPlane",
                 "stars": 93
-              }
+              },
+              "first_seen": "2026-08-28T21:11:54.713Z"
             },
             {
               "node_type": "item",
@@ -1353,7 +1432,8 @@
                 "owner": "redcanaryco",
                 "repo": "ebpfmon",
                 "stars": 90
-              }
+              },
+              "first_seen": "2026-08-28T21:11:54.713Z"
             },
             {
               "node_type": "item",
@@ -1368,7 +1448,8 @@
                 "owner": "olcf",
                 "repo": "greggd",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T21:11:54.713Z"
             }
           ],
           "description": null,
@@ -1394,7 +1475,8 @@
             "owner": "h3xduck",
             "repo": "TripleCross",
             "stars": 1977
-          }
+          },
+          "first_seen": "2026-08-28T21:11:54.713Z"
         },
         {
           "node_type": "item",
@@ -1409,7 +1491,8 @@
             "owner": "Gui774ume",
             "repo": "ebpfkit",
             "stars": 855
-          }
+          },
+          "first_seen": "2026-08-28T21:11:54.713Z"
         },
         {
           "node_type": "item",
@@ -1424,7 +1507,8 @@
             "owner": "pathtofile",
             "repo": "bad-bpf",
             "stars": 697
-          }
+          },
+          "first_seen": "2026-08-28T21:11:54.713Z"
         },
         {
           "node_type": "item",
@@ -1439,7 +1523,8 @@
             "owner": "Gui774ume",
             "repo": "ebpfkit-monitor",
             "stars": 143
-          }
+          },
+          "first_seen": "2026-08-28T21:11:54.713Z"
         },
         {
           "children": [
@@ -1456,7 +1541,8 @@
                 "owner": "xdp-project",
                 "repo": "xdp-project",
                 "stars": 314
-              }
+              },
+              "first_seen": "2026-08-28T21:11:54.713Z"
             }
           ],
           "description": null,
@@ -1477,8 +1563,9 @@
                 "last_commit": "2026-08-27T11:24:41Z",
                 "owner": "iovisor",
                 "repo": "bcc",
-                "stars": 22640
-              }
+                "stars": 22644
+              },
+              "first_seen": "2026-08-28T21:11:54.713Z"
             },
             {
               "node_type": "item",
@@ -1493,7 +1580,8 @@
                 "owner": "iovisor",
                 "repo": "bpf-docs",
                 "stars": 1017
-              }
+              },
+              "first_seen": "2026-08-28T21:11:54.713Z"
             }
           ],
           "description": null,
@@ -1505,7 +1593,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T20:35:37.875Z",
+    "last_updated": "2026-08-28T21:11:54.713Z",
     "original_repository_info": {
       "archived": false,
       "id": 109623221,
@@ -1513,7 +1601,7 @@
       "last_commit": "2026-08-12T16:29:00Z",
       "owner": "qmonnet",
       "repo": "awesome-ebpf",
-      "stars": 5150
+      "stars": 5153
     },
     "original_repository_sha": "e1a0438cd7638253285a06118cbc30b091890e3a",
     "enhanced_repository": "enhansome/enhansome-ebpf",
