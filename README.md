@@ -6,7 +6,7 @@ BPF, as in *Berkeley Packet Filter*, is an in-kernel virtual machine running pro
 
 [Cilium](https://cilium.io) has a great website about eBPF called [ebpf.io](https://ebpf.io/). It serves a similar purpose to this list, with [an introduction to eBPF](https://ebpf.io/what-is-ebpf) and links to [related projects](https://ebpf.io/projects).
 
-> Note: eBPF is an exciting piece of technology, and its ecosystem is constantly evolving. We'd love help from *you* to keep this awesome list up to date, and improve its signal-to-noise ratio in anyway we can. Please feel free to leave [any feedback](https://github.com/qmonnet/awesome-ebpf/issues) ⭐ 5,162 | 🐛 14 | 📅 2026-08-12.
+> Note: eBPF is an exciting piece of technology, and its ecosystem is constantly evolving. We'd love help from *you* to keep this awesome list up to date, and improve its signal-to-noise ratio in anyway we can. Please feel free to leave [any feedback](https://github.com/qmonnet/awesome-ebpf/issues) ⭐ 5,164 | 🐛 13 | 📅 2026-09-14.
 
 ## Contents
 
@@ -55,7 +55,7 @@ BPF, as in *Berkeley Packet Filter*, is an in-kernel virtual machine running pro
   * [Contextually speaking...](https://www.spinics.net/lists/xdp-newbies/msg00181.html)
   * [BPF Verifier Overview](https://www.spinics.net/lists/xdp-newbies/msg00185.html)
 
-* [List of BPF features per kernel version](https://github.com/iovisor/bcc/blob/master/docs/kernel-versions.md) ⭐ 22,662 | 🐛 1,076 | 🌐 C | 📅 2026-09-11
+* [List of BPF features per kernel version](https://github.com/iovisor/bcc/blob/master/docs/kernel-versions.md) ⭐ 22,662 | 🐛 1,077 | 🌐 C | 📅 2026-09-11
 
 * [A List of Research Papers](https://pchaigno.github.io/bpf/2025/01/07/research-papers-bpf.html)
 
@@ -65,7 +65,7 @@ BPF, as in *Berkeley Packet Filter*, is an in-kernel virtual machine running pro
 
 If you are new to eBPF, you may want to try the links described as "introductions" in this section.
 
-* [A BPF reference guide](https://github.com/iovisor/bcc/blob/master/docs/reference_guide.md) ⭐ 22,662 | 🐛 1,076 | 🌐 C | 📅 2026-09-11 - About BPF C and bcc Python helpers, from bcc repository.
+* [A BPF reference guide](https://github.com/iovisor/bcc/blob/master/docs/reference_guide.md) ⭐ 22,662 | 🐛 1,077 | 🌐 C | 📅 2026-09-11 - About BPF C and bcc Python helpers, from bcc repository.
 
 * [Beginner's guide to eBPF](https://github.com/lizrice/ebpf-beginners) ⭐ 1,729 | 🐛 3 | 🌐 Python | 📅 2023-05-08 - A set of live-coding talks and the accompanying code examples, introducing eBPF programming using a variety of libraries and program types.
 
@@ -195,9 +195,9 @@ If you are new to eBPF, you may want to try the links described as "introduction
 
 ## Tutorials
 
-* [bcc Reference Guide](https://github.com/iovisor/bcc/blob/master/docs/reference_guide.md) ⭐ 22,662 | 🐛 1,076 | 🌐 C | 📅 2026-09-11 - Many incremental steps to start using bcc and eBPF, mostly centered on tracing and monitoring.
-* [bcc Python Developer Tutorial](https://github.com/iovisor/bcc/blob/master/docs/tutorial_bcc_python_developer.md) ⭐ 22,662 | 🐛 1,076 | 🌐 C | 📅 2026-09-11 - Comes with bcc, but targets the Python bits across seventeen "lessons".
-* [XDP Hands-On Tutorial](https://github.com/xdp-project/xdp-tutorial) ⭐ 2,969 | 🐛 170 | 🌐 C | 📅 2026-05-08 - A progressive (three levels of difficulty) tutorial to learn how to process packets with XDP.
+* [bcc Reference Guide](https://github.com/iovisor/bcc/blob/master/docs/reference_guide.md) ⭐ 22,662 | 🐛 1,077 | 🌐 C | 📅 2026-09-11 - Many incremental steps to start using bcc and eBPF, mostly centered on tracing and monitoring.
+* [bcc Python Developer Tutorial](https://github.com/iovisor/bcc/blob/master/docs/tutorial_bcc_python_developer.md) ⭐ 22,662 | 🐛 1,077 | 🌐 C | 📅 2026-09-11 - Comes with bcc, but targets the Python bits across seventeen "lessons".
+* [XDP Hands-On Tutorial](https://github.com/xdp-project/xdp-tutorial) ⭐ 2,970 | 🐛 170 | 🌐 C | 📅 2026-05-08 - A progressive (three levels of difficulty) tutorial to learn how to process packets with XDP.
 * [Linux Tracing Workshops Materials](https://github.com/goldshtn/linux-tracing-workshop) ⭐ 1,321 | 🐛 7 | 🌐 HTML | 📅 2020-06-19 - Involves the use of several BPF tools for tracing.
 * [eBPF Party](https://ebpf.party/) - Browser-based playground to learn, write, compile, and run eBPF programs.
 * [Building BPF applications with libbpf-bootstrap](https://nakryiko.com/posts/libbpf-bootstrap/) - Helps generate minimal or advanced templates to bootstrap your own applications (kernel side and user space management for maps and programs) with features like CO-RE, global variables, and ring buffer.
@@ -225,8 +225,8 @@ If you are new to eBPF, you may want to try the links described as "introduction
 
 ## Examples
 
-* [bcc/examples](https://github.com/iovisor/bcc/tree/master/examples) ⭐ 22,662 | 🐛 1,076 | 🌐 C | 📅 2026-09-11 - Examples coming along with the bcc tools, mostly about tracing.
-* [bcc/tools](https://github.com/iovisor/bcc/tree/master/tools) ⭐ 22,662 | 🐛 1,076 | 🌐 C | 📅 2026-09-11 - These tools themselves can be seen as example use cases for BPF programs, mostly for tracing and monitoring. bcc tools have been packaged for some Linux distributions.
+* [bcc/examples](https://github.com/iovisor/bcc/tree/master/examples) ⭐ 22,662 | 🐛 1,077 | 🌐 C | 📅 2026-09-11 - Examples coming along with the bcc tools, mostly about tracing.
+* [bcc/tools](https://github.com/iovisor/bcc/tree/master/tools) ⭐ 22,662 | 🐛 1,077 | 🌐 C | 📅 2026-09-11 - These tools themselves can be seen as example use cases for BPF programs, mostly for tracing and monitoring. bcc tools have been packaged for some Linux distributions.
 * [redbpf examples](https://github.com/foniod/redbpf/tree/main/examples) ⚠️ Archived - Example programs for using RedBPF to write eBPF programs in Rust.
 * [prototype-kernel/kernel/samples/bpf](https://github.com/netoptimizer/prototype-kernel/tree/master/kernel/samples/bpf) ⭐ 316 | 🐛 13 | 🌐 C | 📅 2025-01-16 - Jesper Dangaard Brouer's prototype-kernel repository contains some additional examples that can be compiled outside of kernel infrastructure.
 * [Netronome sample network applications](https://github.com/Netronome/bpf-samples/) ⭐ 109 | 🐛 6 | 🌐 C | 📅 2020-04-06 - Provides basic but complete examples of eBPF applications also compatible with hardware offload.
@@ -242,8 +242,8 @@ If you are new to eBPF, you may want to try the links described as "introduction
 
 ### bcc
 
-* [bcc](https://github.com/iovisor/bcc/) ⭐ 22,662 | 🐛 1,076 | 🌐 C | 📅 2026-09-11 - Framework and set of tools - One way to handle BPF programs, in particular for tracing and monitoring. Also includes some utilities that may help inspect maps or programs on the system.
-* [Lua front-end for BCC](https://github.com/iovisor/bcc/tree/master/src/lua) ⭐ 22,662 | 🐛 1,076 | 🌐 C | 📅 2026-09-11 - Another alternative to C, and even to most of the Python code used in bcc.
+* [bcc](https://github.com/iovisor/bcc/) ⭐ 22,662 | 🐛 1,077 | 🌐 C | 📅 2026-09-11 - Framework and set of tools - One way to handle BPF programs, in particular for tracing and monitoring. Also includes some utilities that may help inspect maps or programs on the system.
+* [Lua front-end for BCC](https://github.com/iovisor/bcc/tree/master/src/lua) ⭐ 22,662 | 🐛 1,077 | 🌐 C | 📅 2026-09-11 - Another alternative to C, and even to most of the Python code used in bcc.
 
 ### iproute2
 
@@ -265,12 +265,12 @@ If you are new to eBPF, you may want to try the links described as "introduction
 
 ### Go libraries
 
-* [cilium/ebpf](https://github.com/cilium/ebpf) ⭐ 7,958 | 🐛 27 | 🌐 Go | 📅 2026-09-10 - Pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.
+* [cilium/ebpf](https://github.com/cilium/ebpf) ⭐ 7,959 | 🐛 28 | 🌐 Go | 📅 2026-09-14 - Pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.
 * [libbpfgo](https://github.com/aquasecurity/libbpfgo) ⭐ 850 | 🐛 35 | 🌐 Go | 📅 2026-09-03 - eBPF library for Go, powered by libbpf.
 
 ### Aya
 
-* [aya](https://github.com/aya-rs/aya) ⭐ 4,808 | 🐛 213 | 🌐 Rust | 📅 2026-09-13 - A pure Rust library for writing, loading, and managing eBPF objects, with a focus on developer experience and operability. It supports writing eBPF programs in Rust and distributing library code over crates.io to share it between eBPF programs. Aya does not depend on libbpf.
+* [aya](https://github.com/aya-rs/aya) ⭐ 4,810 | 🐛 215 | 🌐 Rust | 📅 2026-09-14 - A pure Rust library for writing, loading, and managing eBPF objects, with a focus on developer experience and operability. It supports writing eBPF programs in Rust and distributing library code over crates.io to share it between eBPF programs. Aya does not depend on libbpf.
 * [aya-template](https://github.com/aya-rs/aya-template) ⭐ 141 | 🐛 6 | 🌐 Rust | 📅 2026-09-07 - Templates for writing BPF applications in Aya that can be used with [`cargo generate`](https://github.com/cargo-generate/cargo-generate) ⭐ 2,487 | 🐛 28 | 🌐 Rust | 📅 2026-09-09.
 
 ### zbpf
@@ -279,7 +279,7 @@ If you are new to eBPF, you may want to try the links described as "introduction
 
 ### eunomia-bpf
 
-* [eunomia-bpf](https://github.com/eunomia-bpf/eunomia-bpf) ⭐ 901 | 🐛 15 | 🌐 Rust | 📅 2026-08-09 - A compilation framework and runtime library to build, distribute, dynamically load, and run CO-RE eBPF applications in multiple languages and WebAssembly. It supports writing eBPF kernel code only (to build simple CO-RE libbpf eBPF applications), writing the kernel part in both BCC and libbpf styles, and writing userspace in multiple languages in a WASM module and distributing it with simple JSON data or WASM OCI images. The runtime is based on libbpf only and provides CO-RE to BCC-style eBPF programs without depending on the LLVM library.
+* [eunomia-bpf](https://github.com/eunomia-bpf/eunomia-bpf) ⭐ 902 | 🐛 15 | 🌐 Rust | 📅 2026-08-09 - A compilation framework and runtime library to build, distribute, dynamically load, and run CO-RE eBPF applications in multiple languages and WebAssembly. It supports writing eBPF kernel code only (to build simple CO-RE libbpf eBPF applications), writing the kernel part in both BCC and libbpf styles, and writing userspace in multiple languages in a WASM module and distributing it with simple JSON data or WASM OCI images. The runtime is based on libbpf only and provides CO-RE to BCC-style eBPF programs without depending on the LLVM library.
 
 ### bpftool and Other Tools from the Kernel Tree
 
@@ -294,24 +294,24 @@ If you are new to eBPF, you may want to try the links described as "introduction
 
 * [rbpf](https://github.com/qmonnet/rbpf) ⭐ 1,128 | 🐛 19 | 🌐 Rust | 📅 2026-06-03 - Written in Rust. Interpreter for Linux, macOS and Windows, and JIT-compiler for x86\_64 under Linux.
 * [uBPF](https://github.com/iovisor/ubpf/) ⭐ 989 | 🐛 18 | 🌐 C | 📅 2026-08-08 - Written in C. Contains an interpreter, a JIT compiler for x86\_64 architecture, an assembler and a disassembler.
-* [PREVAIL](https://github.com/vbpf/ebpf-verifier) ⭐ 472 | 🐛 38 | 🌐 C++ | 📅 2026-09-12 - A user space verifier for eBPF [using an abstract interpretation layer](https://elazarg.github.io/pldi19main-final.pdf), with support for loops.
+* [PREVAIL](https://github.com/vbpf/ebpf-verifier) ⭐ 472 | 🐛 37 | 🌐 C++ | 📅 2026-09-13 - A user space verifier for eBPF [using an abstract interpretation layer](https://elazarg.github.io/pldi19main-final.pdf), with support for loops.
 * [A generic implementation](https://github.com/YutaroHayakawa/generic-ebpf) ⭐ 154 | 🐛 2 | 🌐 C | 📅 2021-05-28 - With support for FreeBSD kernel, FreeBSD user space, Linux kernel, Linux user space and macOS user space. Used for the [VALE software switch](https://www.unix.com/man-page/freebsd/4/vale/)'s [BPF extension module](https://github.com/YutaroHayakawa/vale-bpf) ⭐ 33 | 🐛 0 | 🌐 C | 📅 2019-11-06.
 * [wachy](https://rubrikinc.github.io/wachy/) - A tracing profiler that aims to make eBPF uprobe-based debugging easier to use. This is done by displaying traces in a UI next to the source code and allowing interactive drilldown analysis.
 
 ### eBPF on Other Platforms
 
-* [eBPF for Windows](https://github.com/microsoft/ebpf-for-windows) ⭐ 3,562 | 🐛 333 | 🌐 C | 📅 2026-09-12 - This project is a work-in-progress that allows using existing eBPF toolchains and APIs familiar in the Linux ecosystem to be used on top of Windows.
+* [eBPF for Windows](https://github.com/microsoft/ebpf-for-windows) ⭐ 3,563 | 🐛 331 | 🌐 C | 📅 2026-09-14 - This project is a work-in-progress that allows using existing eBPF toolchains and APIs familiar in the Linux ecosystem to be used on top of Windows.
 
 ### Testing in Virtual Environments
 
 * [bcc in a Docker container](https://github.com/zlim/bcc-docker) ⭐ 45 | 🐛 4 | 🌐 Makefile | 📅 2020-07-23
-* [bpfcompat](https://github.com/Kernel-Guard/bpfcompat) ⭐ 18 | 🐛 9 | 🌐 Go | 📅 2026-09-11 - Boots real Linux kernels in disposable QEMU/KVM VMs to load- and attach-validate compiled eBPF objects across a multi-distro, multi-architecture kernel matrix, classifying failures (missing BTF, unsupported map/program type, CO-RE relocations); runs as a CI gate and GitHub Action.
+* [bpfcompat](https://github.com/Kernel-Guard/bpfcompat) ⭐ 18 | 🐛 9 | 🌐 Go | 📅 2026-09-14 - Boots real Linux kernels in disposable QEMU/KVM VMs to load- and attach-validate compiled eBPF objects across a multi-distro, multi-architecture kernel matrix, classifying failures (missing BTF, unsupported map/program type, CO-RE relocations); runs as a CI gate and GitHub Action.
 
 ## Projects Related to eBPF
 
 ### Networking
 
-* [Cilium](https://cilium.io/) project ([GitHub repository](https://github.com/cilium/cilium) ⭐ 25,126 | 🐛 1,096 | 🌐 Go | 📅 2026-09-13) is a technology relying on eBPF and XDP to provide "fast in-kernel networking and security policy enforcement for containers based on eBPF programs generated on the fly". Many presentations available (with overlap):
+* [Cilium](https://cilium.io/) project ([GitHub repository](https://github.com/cilium/cilium) ⭐ 25,133 | 🐛 1,079 | 🌐 Go | 📅 2026-09-14) is a technology relying on eBPF and XDP to provide "fast in-kernel networking and security policy enforcement for containers based on eBPF programs generated on the fly". Many presentations available (with overlap):
 
   * [Cilium: Networking & Security for Containers with BPF & XDP](https://www.slideshare.net/slideshow/clium-container-networking-with-bpf-xdp/68194576) - Also featuring a load balancer use case
   * [Cilium: Networking & Security for Containers with BPF & XDP](https://www.slideshare.net/slideshow/cilium-bpf-xdp-for-containers-66969823/66969823) - [video](https://www.youtube.com/watch?v=TnJF7ht3ZYc\&list=PLkA60AVN3hh8oPas3cq2VA9xB7WazcIgs)
@@ -321,15 +321,15 @@ If you are new to eBPF, you may want to try the links described as "introduction
   * [A generic introduction to Cilium](https://opensource.googleblog.com/2016/11/cilium-networking-and-security.html)
   * [A podcast interviewing Thomas Graf](https://blog.ipspace.net/2016/10/fast-linux-packet-forwarding-with/) - Ivan Pepelnjak interviewing Thomas, October 2016, on eBPF, P4, XDP and Cilium.
 
-* [ApFree WiFiDog](https://github.com/liudf0716/apfree-wifidog) ⭐ 936 | 🐛 2 | 🌐 C | 📅 2026-09-06 - A high performance and lightweight captive portal solution for wireless networks. It leverages eBPF for traffic control and deep packet inspection capabilities, with plans to gradually replace nftables firewall functionality with eBPF-based solutions.
+* [ApFree WiFiDog](https://github.com/liudf0716/apfree-wifidog) ⭐ 936 | 🐛 2 | 🌐 C | 📅 2026-09-14 - A high performance and lightweight captive portal solution for wireless networks. It leverages eBPF for traffic control and deep packet inspection capabilities, with plans to gradually replace nftables firewall functionality with eBPF-based solutions.
 
-* [merbridge](https://github.com/merbridge/merbridge/) ⭐ 807 | 🐛 36 | 🌐 Go | 📅 2025-05-19 - Use eBPF to speed up your Service Mesh. Merbridge replaces iptables rules with eBPF to intercept traffic. It also combines msg\_redirect to reduce latency with a shortened datapath between sidecars and services.
+* [merbridge](https://github.com/merbridge/merbridge/) ⭐ 806 | 🐛 36 | 🌐 Go | 📅 2025-05-19 - Use eBPF to speed up your Service Mesh. Merbridge replaces iptables rules with eBPF to intercept traffic. It also combines msg\_redirect to reduce latency with a shortened datapath between sidecars and services.
 
 * [ipx\_wrap](https://github.com/twisted-pear/ipx_wrap) ⭐ 10 | 🐛 0 | 🌐 C | 📅 2026-09-13 - A proof-of-concept IPX implementation for Linux using eBPF.
 
 * P4 has some interactions with eBPF:
 
-  * [P4\_16 backend for eBPF](https://github.com/p4lang/p4c/blob/master/backends/ebpf/README.md) ⭐ 837 | 🐛 475 | 🌐 C++ | 📅 2026-09-12
+  * [P4\_16 backend for eBPF](https://github.com/p4lang/p4c/blob/master/backends/ebpf/README.md) ⭐ 837 | 🐛 474 | 🌐 C++ | 📅 2026-09-13
   * [OvS Orbit episode (#11), called P4 on the Edge](https://ovsorbit.org/#e11) - Related to the former item. Audio interview of John Fastabend by Ben Pfaff, one of the core maintainers of Open vSwitch.
 
 * [Katran](https://code.fb.com/open-source/open-sourcing-katran-a-scalable-network-load-balancer/) - A layer 4 load-balancer based on XDP, open-sourced by Facebook.
@@ -357,12 +357,12 @@ If you are new to eBPF, you may want to try the links described as "introduction
 
 ### Observability
 
-* [Coroot](https://github.com/coroot/coroot) ⭐ 7,913 | 🐛 118 | 🌐 Go | 📅 2026-09-07 - Coroot is an open-source APM and observability tool, a DataDog and NewRelic alternative.
-* [pixie](https://github.com/pixie-io/pixie) ⭐ 6,533 | 🐛 396 | 🌐 C++ | 📅 2026-07-30 - Observability for Kubernetes using eBPF. Features include protocol tracing, application profiling, and support for distributed bpftrace deployments.
+* [Coroot](https://github.com/coroot/coroot) ⭐ 7,915 | 🐛 119 | 🌐 Go | 📅 2026-09-07 - Coroot is an open-source APM and observability tool, a DataDog and NewRelic alternative.
+* [pixie](https://github.com/pixie-io/pixie) ⭐ 6,535 | 🐛 396 | 🌐 C++ | 📅 2026-07-30 - Observability for Kubernetes using eBPF. Features include protocol tracing, application profiling, and support for distributed bpftrace deployments.
 * [kyanos](https://github.com/hengyoush/kyanos) ⭐ 5,068 | 🐛 32 | 🌐 C | 📅 2026-09-08 - Kyanos is an eBPF-based network issue analysis tool that enables you to capture network requests, such as HTTP, Redis, and MySQL requests.
-* [Hubble](https://github.com/cilium/hubble) ⭐ 4,326 | 🐛 44 | 🌐 Makefile | 📅 2026-09-11 - Network, service and security observability for Kubernetes using eBPF.
-* [DeepFlow](https://github.com/deepflowio/deepflow) ⭐ 4,263 | 🐛 270 | 🌐 Go | 📅 2026-09-11 - Instant observability for cloud-native and AI applications based on eBPF.
-* [Caretta](https://github.com/groundcover-com/caretta) ⭐ 2,062 | 🐛 18 | 🌐 Go | 📅 2025-03-17 - Instant Kubernetes service dependency map generated by eBPF, right to a Grafana instance.
+* [Hubble](https://github.com/cilium/hubble) ⭐ 4,327 | 🐛 44 | 🌐 Makefile | 📅 2026-09-11 - Network, service and security observability for Kubernetes using eBPF.
+* [DeepFlow](https://github.com/deepflowio/deepflow) ⭐ 4,264 | 🐛 270 | 🌐 Go | 📅 2026-09-14 - Instant observability for cloud-native and AI applications based on eBPF.
+* [Caretta](https://github.com/groundcover-com/caretta) ⭐ 2,064 | 🐛 18 | 🌐 Go | 📅 2025-03-17 - Instant Kubernetes service dependency map generated by eBPF, right to a Grafana instance.
 * [InKeV: In-Kernel Distributed Network Virtualization for DCN](https://github.com/iovisor/bpf-docs/blob/master/university/sigcomm-ccr-InKev-2016.pdf) ⭐ 1,017 | 🐛 3 | 📅 2022-09-20
 * [parca-agent](https://github.com/parca-dev/parca-agent) ⭐ 744 | 🐛 184 | 🌐 Go | 📅 2026-09-10 - eBPF based always-on continuous profiler for analysis of CPU and memory usage, down to the line number and throughout time.
 * [SkyWalking Rover](https://github.com/apache/skywalking-rover) ⭐ 238 | 🐛 3 | 🌐 Go | 📅 2026-08-28 - [Apache SkyWalking](https://skywalking.apache.org/) is an open-source Application Performance Monitoring (APM) platform specially designed for distributed systems with microservices, cloud-native and container-based (Kubernetes) architectures. SkyWalking Rover is an eBPF-based profiler and metrics collector for C, C++, Golang, and Rust applications.
@@ -375,15 +375,15 @@ If you are new to eBPF, you may want to try the links described as "introduction
 
 ### Security
 
-* [Tetragon](https://github.com/cilium/tetragon) ⭐ 5,004 | 🐛 280 | 🌐 C | 📅 2026-09-12 - Kubernetes-aware, eBPF-based security observability and runtime enforcement.
+* [Tetragon](https://github.com/cilium/tetragon) ⭐ 5,006 | 🐛 277 | 🌐 C | 📅 2026-09-14 - Kubernetes-aware, eBPF-based security observability and runtime enforcement.
 * [Tracee](https://github.com/aquasecurity/tracee) ⭐ 4,618 | 🐛 121 | 🌐 Go | 📅 2026-09-10 - A runtime security and forensics tool for Linux which uses eBPF technology to trace the system and applications at runtime, and analyze collected events to detect suspicious behavioral patterns.
-* [Sysmon for Linux](https://github.com/Sysinternals/SysmonForLinux) ⭐ 2,159 | 🐛 41 | 🌐 C | 📅 2026-09-10 - A security monitoring tool. It depends on [SysinternalsEBPF](https://github.com/Sysinternals/SysinternalsEBPF) ⭐ 288 | 🐛 15 | 🌐 C | 📅 2026-09-10.
+* [Sysmon for Linux](https://github.com/Sysinternals/SysmonForLinux) ⭐ 2,160 | 🐛 41 | 🌐 C | 📅 2026-09-14 - A security monitoring tool. It depends on [SysinternalsEBPF](https://github.com/Sysinternals/SysinternalsEBPF) ⭐ 288 | 🐛 15 | 🌐 C | 📅 2026-09-14.
 * [owLSM](https://github.com/Cybereason-Public/owLSM) ⭐ 281 | 🐛 2 | 🌐 C | 📅 2026-08-22 - Open source agent that implements a stateful Sigma rules engine focused on monitoring and prevention using eBPF LSM.
 * [harpoon](https://github.com/alegrey91/harpoon) ⭐ 178 | 🐛 8 | 🌐 C | 📅 2026-02-23 - Trace syscalls from user-space functions, by using eBPF.
 * [bpflock - Lock Linux machines](https://github.com/linux-lock/bpflock) ⭐ 157 | 🐛 3 | 🌐 C | 📅 2022-02-16 - An eBPF driven security tool for locking and auditing Linux machines.
 * [redcanary-ebpf-sensor](https://github.com/redcanaryco/redcanary-ebpf-sensor) ⭐ 116 | 🐛 0 | 🌐 C | 📅 2026-06-26 - A set of BPF programs that gather security relevant event data from the Linux kernel. The BPF programs are combined into a single ELF file from which individual probes can be selectively loaded, depending on the running operating system and kernel version.
 * [BPFJailer](https://github.com/gen0sec/bpfjailer) ⭐ 59 | 🐛 1 | 🌐 C | 📅 2026-09-04 - BpfJailer is an eBPF-based process jailing system that provides mandatory access control (MAC) for Linux.
-* [Bombini](https://github.com/bombinisecurity/bombini) ⭐ 59 | 🐛 11 | 🌐 Rust | 📅 2026-09-09 - An eBPF-based security agent written entirely in Rust using the [Aya](https://github.com/aya-rs/aya) ⭐ 4,808 | 🐛 213 | 🌐 Rust | 📅 2026-09-13 library and built on LSM (Linux Security Module) BPF hooks.
+* [Bombini](https://github.com/bombinisecurity/bombini) ⭐ 59 | 🐛 13 | 🌐 Rust | 📅 2026-09-14 - An eBPF-based security agent written entirely in Rust using the [Aya](https://github.com/aya-rs/aya) ⭐ 4,810 | 🐛 215 | 🌐 Rust | 📅 2026-09-14 library and built on LSM (Linux Security Module) BPF hooks.
 * [Falco](https://falco.org/) - A cloud-native runtime security project used as a Kubernetes threat detection engine.
 * [Red Canary Linux Agent](https://redcanary.com/blog/ebpf-for-security) - Red Canary has started to incorporate eBPF to their Linux security sensor.
 * [Synapse](https://github.com/gen0sec/synapse) - Extended detection and response (XDR) with eBPF-powered firewall and proxy, to protect your Linux servers.
@@ -391,21 +391,21 @@ If you are new to eBPF, you may want to try the links described as "introduction
 
 ### Linux Scheduler
 
-* [scx](https://github.com/sched-ext/scx) ⭐ 2,150 | 🐛 87 | 🌐 C | 📅 2026-09-11 - sched\_ext schedulers and tools.
+* [scx](https://github.com/sched-ext/scx) ⭐ 2,152 | 🐛 85 | 🌐 C | 📅 2026-09-14 - sched\_ext schedulers and tools.
 * [Gthulhu](https://github.com/Gthulhu/Gthulhu) ⭐ 403 | 🐛 7 | 🌐 Go | 📅 2026-09-05 - Gthulhu optimizes cloud-native workloads using the Linux Scheduler Extension for different application scenarios.
 
 ### Tools
 
-* [oryx](https://github.com/pythops/oryx) ⭐ 2,578 | 🐛 5 | 🌐 Rust | 📅 2026-09-01 - A TUI for sniffing network traffic using eBPF on Linux.
+* [oryx](https://github.com/pythops/oryx) ⭐ 2,579 | 🐛 5 | 🌐 Rust | 📅 2026-09-01 - A TUI for sniffing network traffic using eBPF on Linux.
 * [kubectl trace](https://github.com/iovisor/kubectl-trace) ⭐ 2,186 | 🐛 49 | 🌐 Go | 📅 2026-04-16 - A kubectl plug-in for executing bpftrace programs in a Kubernetes cluster.
 * [redbpf](https://github.com/foniod/redbpf) ⚠️ Archived - Tooling and framework to write eBPF code in Rust efficiently.
-* [ptcpdump](https://github.com/mozillazg/ptcpdump) ⭐ 1,270 | 🐛 29 | 🌐 C | 📅 2026-09-03 - A process-aware, eBPF-based tcpdump-like tool.
-* [bpfman](https://github.com/bpfman/bpfman) ⭐ 766 | 🐛 18 | 🌐 Go | 📅 2026-09-07 - An eBPF Manager for Linux and Kubernetes. Includes a built-in program loader that supports program cooperation for XDP and TC programs, as well as deployment of eBPF programs from OCI images.
+* [ptcpdump](https://github.com/mozillazg/ptcpdump) ⭐ 1,271 | 🐛 29 | 🌐 C | 📅 2026-09-03 - A process-aware, eBPF-based tcpdump-like tool.
+* [bpfman](https://github.com/bpfman/bpfman) ⭐ 766 | 🐛 18 | 🌐 Go | 📅 2026-09-14 - An eBPF Manager for Linux and Kubernetes. Includes a built-in program loader that supports program cooperation for XDP and TC programs, as well as deployment of eBPF programs from OCI images.
 * [AgentSight](https://github.com/eunomia-bpf/AgentSight) ⭐ 686 | 🐛 27 | 🌐 C | 📅 2026-09-13 - Zero-instrumentation eBPF observability for LLM and coding agents, capturing syscall-level traces (file, network, process) without modifying the agent.
 * [bpfd](https://github.com/genuinetools/bpfd) ⭐ 484 | 🐛 5 | 🌐 Go | 📅 2021-05-07 - Framework for running BPF programs with rules on Linux as a daemon. Container aware.
 * [adeb](https://github.com/joelagnel/adeb) ⚠️ Archived - A Linux shell environment for using tracing tools on Android with BPFd.
 * [upf-bpf](https://github.com/navarrothiago/upf-bpf) ⭐ 217 | 🐛 17 | 🌐 C++ | 📅 2024-09-28 - An in-kernel solution based on XDP for 5G UPF.
-* [GhostScope](https://github.com/swananan/ghostscope) ⭐ 189 | 🐛 6 | 🌐 Rust | 📅 2026-09-13 - A DWARF-aware eBPF tracer for source-level userspace tracing, with an interactive TUI and a scriptable CLI.
+* [GhostScope](https://github.com/swananan/ghostscope) ⭐ 189 | 🐛 6 | 🌐 Rust | 📅 2026-09-14 - A DWARF-aware eBPF tracer for source-level userspace tracing, with an interactive TUI and a scriptable CLI.
 * [ActPlane](https://github.com/eunomia-bpf/ActPlane) ⭐ 99 | 🐛 3 | 🌐 C | 📅 2026-09-12 - OS-level agent harness that compiles a policy DSL to an in-kernel eBPF engine for labeled information-flow control at the syscall boundary, enforcing constraints across any tool or subprocess.
 * [BPFd](https://github.com/joelagnel/bpfd) ⚠️ Archived - A distinct BPF daemon, trying to leverage the flexibility of the bcc tools to trace and debug remote targets, and in particular devices running with Android.
 * [ebpf-explorer](https://github.com/ebpfdev/explorer) ⭐ 93 | 🐛 9 | 🌐 Dockerfile | 📅 2023-06-18 - A web interface to explore system's maps and programs.
@@ -421,7 +421,7 @@ If you are new to eBPF, you may want to try the links described as "introduction
 
 * [TripleCross](https://github.com/h3xduck/TripleCross) ⭐ 1,979 | 🐛 19 | 🌐 C | 📅 2024-04-07 - A Linux eBPF rootkit with a backdoor, C2, library injection, execution hijacking, persistence and stealth capabilities.
 * [ebpfkit](https://github.com/Gui774ume/ebpfkit) ⭐ 860 | 🐛 4 | 🌐 C | 📅 2023-02-28 - A rootkit that leverages multiple eBPF features to implement offensive security techniques.
-* [Bad BPF](https://github.com/pathtofile/bad-bpf) ⭐ 698 | 🐛 2 | 🌐 C | 📅 2024-07-07 - A collection of malicious eBPF programs that make use of eBPF's ability to read and write user data in between the usermode program and the kernel.
+* [Bad BPF](https://github.com/pathtofile/bad-bpf) ⭐ 699 | 🐛 2 | 🌐 C | 📅 2024-07-07 - A collection of malicious eBPF programs that make use of eBPF's ability to read and write user data in between the usermode program and the kernel.
 * [ebpfkit-monitor](https://github.com/Gui774ume/ebpfkit-monitor) ⭐ 144 | 🐛 2 | 🌐 C | 📅 2023-02-28 - An utility to statically analyze eBPF bytecode or monitor suspicious eBPF activity at runtime. It was specifically designed to detect ebpfkit.
 * [Embrace The Red: Offensive BPF!](https://embracethered.com/blog/tags/ebpf) - A series of posts around the introduction into BPF with a focus to an offensive setting, and also how its misuse can be detected. Posts include discussions on the rootkit capabilities of eBPF, or on which tracing type is needed for different use cases.
 * [eBPF: Block Linux Fileless Payload "Malware" Execution with BPF LSM](https://djalal.opendz.org/post/ebpf-block-linux-fileless-payload-execution-with-bpf-lsm/) - Blog post about how BPF can help detection and blocking fileless malware.
@@ -461,7 +461,7 @@ If you are new to eBPF, you may want to try the links described as "introduction
 
 ## Other Lists of Resources on eBPF
 
-* [IO Visor's bcc documentation](https://github.com/iovisor/bcc/tree/master/docs) ⭐ 22,662 | 🐛 1,076 | 🌐 C | 📅 2026-09-11
+* [IO Visor's bcc documentation](https://github.com/iovisor/bcc/tree/master/docs) ⭐ 22,662 | 🐛 1,077 | 🌐 C | 📅 2026-09-11
 * [IO Visor's bpf-docs repository](https://github.com/iovisor/bpf-docs/) ⭐ 1,017 | 🐛 3 | 📅 2022-09-20
 * [Dive into BPF: A List of Reading Material](https://qmonnet.github.io/whirl-offload/2016/09/01/dive-into-bpf/)
 
@@ -481,4 +481,4 @@ To the extent possible under law, the authors have waived all copyright and rela
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
