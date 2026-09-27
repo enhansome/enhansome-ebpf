@@ -21,7 +21,7 @@
                 "open_issues": 1078,
                 "owner": "iovisor",
                 "repo": "bcc",
-                "stars": 22674,
+                "stars": 22678,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:54.713Z"
@@ -190,7 +190,7 @@
             "open_issues": 1078,
             "owner": "iovisor",
             "repo": "bcc",
-            "stars": 22674,
+            "stars": 22678,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:54.713Z"
@@ -211,7 +211,7 @@
             "open_issues": 1078,
             "owner": "iovisor",
             "repo": "bcc",
-            "stars": 22674,
+            "stars": 22678,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:54.713Z"
@@ -232,7 +232,7 @@
             "open_issues": 170,
             "owner": "xdp-project",
             "repo": "xdp-tutorial",
-            "stars": 2981,
+            "stars": 2982,
             "topics": [
               "bpf",
               "libbpf",
@@ -285,7 +285,7 @@
             "open_issues": 1078,
             "owner": "iovisor",
             "repo": "bcc",
-            "stars": 22674,
+            "stars": 22678,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:54.713Z"
@@ -306,7 +306,7 @@
             "open_issues": 1078,
             "owner": "iovisor",
             "repo": "bcc",
-            "stars": 22674,
+            "stars": 22678,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:54.713Z"
@@ -524,7 +524,7 @@
                 "open_issues": 1078,
                 "owner": "iovisor",
                 "repo": "bcc",
-                "stars": 22674,
+                "stars": 22678,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:54.713Z"
@@ -545,7 +545,7 @@
                 "open_issues": 1078,
                 "owner": "iovisor",
                 "repo": "bcc",
-                "stars": 22674,
+                "stars": 22678,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:54.713Z"
@@ -573,7 +573,7 @@
                 "open_issues": 32,
                 "owner": "libbpf",
                 "repo": "libbpf",
-                "stars": 2758,
+                "stars": 2760,
                 "topics": [
                   "bpf",
                   "libbpf",
@@ -598,7 +598,7 @@
                 "open_issues": 18,
                 "owner": "libbpf",
                 "repo": "libbpf-bootstrap",
-                "stars": 1525,
+                "stars": 1526,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:54.713Z"
@@ -626,7 +626,7 @@
                 "open_issues": 31,
                 "owner": "cilium",
                 "repo": "ebpf",
-                "stars": 7971,
+                "stars": 7975,
                 "topics": [
                   "btf",
                   "ebpf",
@@ -683,11 +683,11 @@
                 "id": 331227477,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-26T14:31:46Z",
-                "open_issues": 203,
+                "last_commit": "2026-09-27T13:29:53Z",
+                "open_issues": 202,
                 "owner": "aya-rs",
                 "repo": "aya",
-                "stars": 4825,
+                "stars": 4826,
                 "topics": [
                   "bpf",
                   "ebpf",
@@ -867,7 +867,7 @@
                 "id": 137548993,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-19T16:52:27Z",
+                "last_commit": "2026-09-27T13:44:53Z",
                 "open_issues": 40,
                 "owner": "vbpf",
                 "repo": "prevail",
@@ -921,7 +921,7 @@
                 "id": 355718757,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-09-26T01:11:33Z",
+                "last_commit": "2026-09-27T13:27:38Z",
                 "open_issues": 341,
                 "owner": "microsoft",
                 "repo": "ebpf-for-windows",
@@ -1020,11 +1020,11 @@
                 "id": 48109239,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-26T10:32:07Z",
-                "open_issues": 1097,
+                "last_commit": "2026-09-27T13:05:49Z",
+                "open_issues": 1103,
                 "owner": "cilium",
                 "repo": "cilium",
-                "stars": 25555,
+                "stars": 25563,
                 "topics": [
                   "bpf",
                   "cncf",
@@ -1143,11 +1143,11 @@
                     "id": 55433859,
                     "language": "C++",
                     "license": null,
-                    "last_commit": "2026-09-24T02:12:18Z",
-                    "open_issues": 486,
+                    "last_commit": "2026-09-27T14:26:45Z",
+                    "open_issues": 498,
                     "owner": "p4lang",
                     "repo": "p4c",
-                    "stars": 840,
+                    "stars": 841,
                     "topics": [
                       "p4",
                       "p4c",
@@ -1210,7 +1210,7 @@
                 "open_issues": 124,
                 "owner": "coroot",
                 "repo": "coroot",
-                "stars": 7937,
+                "stars": 7940,
                 "topics": [
                   "ai",
                   "alerting",
@@ -1248,7 +1248,7 @@
                 "open_issues": 396,
                 "owner": "pixie-io",
                 "repo": "pixie",
-                "stars": 6541,
+                "stars": 6543,
                 "topics": [
                   "aks",
                   "apache-arrow",
@@ -1322,7 +1322,7 @@
                 "open_issues": 44,
                 "owner": "cilium",
                 "repo": "hubble",
-                "stars": 4345,
+                "stars": 4349,
                 "topics": [
                   "cilium",
                   "ebpf",
@@ -1627,7 +1627,7 @@
                 "open_issues": 285,
                 "owner": "cilium",
                 "repo": "tetragon",
-                "stars": 5034,
+                "stars": 5036,
                 "topics": [
                   "bpf",
                   "ebpf",
@@ -1889,11 +1889,11 @@
                 "id": 724381950,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-26T05:13:56Z",
+                "last_commit": "2026-09-27T14:39:47Z",
                 "open_issues": 93,
                 "owner": "sched-ext",
                 "repo": "scx",
-                "stars": 2163,
+                "stars": 2164,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:54.713Z"
@@ -1910,8 +1910,8 @@
                 "id": 990385817,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-24T03:34:10Z",
-                "open_issues": 9,
+                "last_commit": "2026-09-27T06:42:30Z",
+                "open_issues": 5,
                 "owner": "Gthulhu",
                 "repo": "Gthulhu",
                 "stars": 403,
@@ -2105,7 +2105,7 @@
                 "open_issues": 30,
                 "owner": "eunomia-bpf",
                 "repo": "agentsight",
-                "stars": 708,
+                "stars": 709,
                 "topics": [
                   "agent",
                   "ebpf",
@@ -2214,7 +2214,7 @@
                 "id": 1045560846,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-26T08:41:01Z",
+                "last_commit": "2026-09-27T09:20:27Z",
                 "open_issues": 5,
                 "owner": "swananan",
                 "repo": "ghostscope",
@@ -2242,7 +2242,7 @@
                 "id": 1247115218,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-09-26T14:09:56Z",
+                "last_commit": "2026-09-27T15:01:53Z",
                 "open_issues": 6,
                 "owner": "eunomia-bpf",
                 "repo": "ActPlane",
@@ -2512,7 +2512,7 @@
                 "open_issues": 1078,
                 "owner": "iovisor",
                 "repo": "bcc",
-                "stars": 22674,
+                "stars": 22678,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:54.713Z"
@@ -2548,7 +2548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T14:34:21.892Z",
+    "last_updated": "2026-09-27T15:12:05.662Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects related to eBPF.",
@@ -2560,7 +2560,7 @@
       "open_issues": 17,
       "owner": "qmonnet",
       "repo": "awesome-ebpf",
-      "stars": 5173,
+      "stars": 5175,
       "topics": [
         "awesome",
         "awesome-list",
